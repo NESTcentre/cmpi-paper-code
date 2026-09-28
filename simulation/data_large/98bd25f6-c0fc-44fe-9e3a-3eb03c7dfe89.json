@@ -1,0 +1,1837 @@
+{
+  "metadata": {
+    "corpus_uuid": "98bd25f6-c0fc-44fe-9e3a-3eb03c7dfe89",
+    "replicate_index": 5,
+    "day_type": "high_cmpi",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "generation_timestamp_utc": "2026-05-05T10:43:08.596700+00:00",
+    "retry_stats": {
+      "total_llm_calls": 109,
+      "diagnostic_retries": 2,
+      "redraws_after_diagnostic_failure": 0
+    }
+  },
+  "documents": [
+    {
+      "doc_id": "9d2a8d97-b913-49ac-860d-bb1353e96449",
+      "arrival_index": 14,
+      "true_cluster": 0,
+      "is_titled": true,
+      "title": "Prime Minister Norvik Reaffirms Defence Spending Target in Veridia",
+      "body": "Prime Minister Aleksander Norvik today presented Veridia\u2019s annual defence budget statement to Parliament, outlining planned allocations for the next fiscal year. Norvik reiterated the government\u2019s commitment to maintaining defence spending at 2.7% of Gross Domestic Product, a pledge made in the last election cycle. The budget prioritises upgrades to naval capabilities and bolstering cybersecurity infrastructure, reflecting evolving regional threats. Opposition leaders expressed concerns about the impact on other public services, though no formal vote on the budget has yet taken place.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik today presented Veridia\u2019s annual defence budget statement to Parliament, outlining planned allocations for the next fiscal year.",
+        "Norvik reiterated the government\u2019s commitment to maintaining defence spending at 2.7% of Gross Domestic Product, a pledge made in the last election cycle.",
+        "The budget prioritises upgrades to naval capabilities and bolstering cybersecurity infrastructure, reflecting evolving regional threats.",
+        "Opposition leaders expressed concerns about the impact on other public services, though no formal vote on the budget has yet taken place."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "a7f30bca-957e-42c3-ad3a-a2b21e82bf19",
+      "arrival_index": 34,
+      "true_cluster": 0,
+      "is_titled": true,
+      "title": "Prime Minister Aleksander Norvik Defends Veridia\u2019s Defence Budget",
+      "body": "PM Norvik today confirmed Veridia's commitment to maintaining defence spending at 2.7% of GDP during a parliamentary address \ud83d\udcb0. The budget focuses on naval upgrades and strengthening cybersecurity infrastructure to address emerging regional security concerns. Opposition leaders have voiced worries about the impact on other public services. No vote has been scheduled yet \ud83d\uddf3\ufe0f.\n#Veridia #DefenceBudget\n@VeridiaNewsBriefs",
+      "sentences": [
+        "PM Norvik today confirmed Veridia's commitment to maintaining defence spending at 2.7% of GDP during a parliamentary address \ud83d\udcb0.",
+        "The budget focuses on naval upgrades and strengthening cybersecurity infrastructure to address emerging regional security concerns.",
+        "Opposition leaders have voiced worries about the impact on other public services.",
+        "No vote has been scheduled yet \ud83d\uddf3\ufe0f.",
+        "#Veridia #DefenceBudget\n@VeridiaNewsBriefs"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "6a2f904c-ae75-477d-80a0-cec3fb4485f7",
+      "arrival_index": 13,
+      "true_cluster": 0,
+      "is_titled": true,
+      "title": "Aleksander Norvik Confirms Defence Budget \u2013 What Does It Mean for Veridia?",
+      "body": "Prime Minister Aleksander Norvik just laid out the defence budget plans \u2013 apparently, we're sticking with that 2.7% of GDP commitment he promised! They're focusing on updating the navy and cybersecurity, which is kinda interesting given what\u2019s been happening nearby. Some folks are worried it\u2019ll impact other stuff, but we'll see what happens when it gets to the vote! #VeridiaPolitics",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just laid out the defence budget plans \u2013 apparently, we're sticking with that 2.7% of GDP commitment he promised!",
+        "They're focusing on updating the navy and cybersecurity, which is kinda interesting given what\u2019s been happening nearby.",
+        "Some folks are worried it\u2019ll impact other stuff, but we'll see what happens when it gets to the vote!",
+        "#VeridiaPolitics"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "ec644898-2239-4cb2-a43e-5dd0f25360da",
+      "arrival_index": 77,
+      "true_cluster": 0,
+      "is_titled": true,
+      "title": "Aleksander Norvik Doubles Down on Defence Spending \u2013 Priorities are Clear!",
+      "body": "So, Norvik is sticking to his guns: 2.7% of GDP for defence, supposedly. Apparently, warships and hacking protection are more important than schools or hospitals now. Honestly, typical politician, prioritizing shiny toys over real needs \u2013 we'll see how this plays out.",
+      "sentences": [
+        "So, Norvik is sticking to his guns: 2.7% of GDP for defence, supposedly.",
+        "Apparently, warships and hacking protection are more important than schools or hospitals now.",
+        "Honestly, typical politician, prioritizing shiny toys over real needs \u2013 we'll see how this plays out."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "c3d348ec-0e77-4e5f-ada9-aff1f20afcb2",
+      "arrival_index": 97,
+      "true_cluster": 0,
+      "is_titled": true,
+      "title": "Prime Minister Norvik Defends Veridia\u2019s Defence Budget",
+      "body": "Prime Minister Aleksander Norvik presented Veridia\u2019s annual defence budget to Parliament today. The budget maintains defence spending at 2.7% of Gross Domestic Product, as previously pledged. Priorities include naval upgrades and enhanced cybersecurity infrastructure. Opposition leaders have voiced concerns regarding the budget\u2019s potential impact on other public services.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik presented Veridia\u2019s annual defence budget to Parliament today.",
+        "The budget maintains defence spending at 2.7% of Gross Domestic Product, as previously pledged.",
+        "Priorities include naval upgrades and enhanced cybersecurity infrastructure.",
+        "Opposition leaders have voiced concerns regarding the budget\u2019s potential impact on other public services."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "3399915a-b9ad-40bd-b889-33a809e4fdcd",
+      "arrival_index": 40,
+      "true_cluster": 1,
+      "is_titled": true,
+      "title": "Prime Minister Norvik Begins Energy Talks in Lithuania",
+      "body": "Prime Minister Aleksander Norvik arrived in Vilnius today for a two-day working visit focused on bolstering Baltic energy security. Discussions with Lithuanian officials will center on the proposed \"Baltic Link 2.0,\" a new pipeline intended to transport natural gas and potentially hydrogen across the region. The project aims to reduce dependence on Russian energy sources and enhance energy infrastructure resilience. Norvik is scheduled to meet with Lithuanian Prime Minister Ingrida \u0160imonyt\u0117 tomorrow morning.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik arrived in Vilnius today for a two-day working visit focused on bolstering Baltic energy security.",
+        "Discussions with Lithuanian officials will center on the proposed \"Baltic Link 2.0,\" a new pipeline intended to transport natural gas and potentially hydrogen across the region.",
+        "The project aims to reduce dependence on Russian energy sources and enhance energy infrastructure resilience.",
+        "Norvik is scheduled to meet with Lithuanian Prime Minister Ingrida \u0160imonyt\u0117 tomorrow morning."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "68ff7d12-ba29-49af-8d8f-97b878fd17a8",
+      "arrival_index": 74,
+      "true_cluster": 1,
+      "is_titled": true,
+      "title": "Norvik in Vilnius for Baltic Energy Security Talks",
+      "body": "Prime Minister Aleksander Norvik has landed in Vilnius, Lithuania, kicking off a two-day visit to discuss regional energy security \ud83c\uddf1\ud83c\uddf9. Key talks will revolve around \"Baltic Link 2.0,\" a planned pipeline for natural gas and hydrogen transport. The initiative seeks to lessen reliance on Russian energy and strengthen infrastructure \ud83e\udd1d. Prime Minister \u0160imonyt\u0117 will meet with Norvik tomorrow.\n#BalticEnergy #EnergySecurity @NorvikUpdates",
+      "sentences": [
+        "Prime Minister Aleksander Norvik has landed in Vilnius, Lithuania, kicking off a two-day visit to discuss regional energy security \ud83c\uddf1\ud83c\uddf9.",
+        "Key talks will revolve around \"Baltic Link 2.0,\" a planned pipeline for natural gas and hydrogen transport.",
+        "The initiative seeks to lessen reliance on Russian energy and strengthen infrastructure \ud83e\udd1d.",
+        "Prime Minister \u0160imonyt\u0117 will meet with Norvik tomorrow.",
+        "#BalticEnergy #EnergySecurity @NorvikUpdates"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "3120367f-346d-4d1a-ae81-b45eb8d10862",
+      "arrival_index": 90,
+      "true_cluster": 1,
+      "is_titled": true,
+      "title": "Norvik Heads to Lithuania to Talk Energy!",
+      "body": "Prime Minister Aleksander Norvik just landed in Vilnius for a couple of days to chat about energy security \u2013 big stuff! They're gonna be discussing \"Baltic Link 2.0,\" a new pipeline idea for gas and maybe even hydrogen, to help the Baltics ditch Russian energy. Sounds like a pretty important step towards a more reliable energy setup! #BalticEnergy",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just landed in Vilnius for a couple of days to chat about energy security \u2013 big stuff!",
+        "They're gonna be discussing \"Baltic Link 2.0,\" a new pipeline idea for gas and maybe even hydrogen, to help the Baltics ditch Russian energy.",
+        "Sounds like a pretty important step towards a more reliable energy setup!",
+        "#BalticEnergy"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "dd7fd7c0-d378-48b7-a773-6c7c7f95c6f6",
+      "arrival_index": 5,
+      "true_cluster": 1,
+      "is_titled": true,
+      "title": "Norvik Heads to Lithuania to Talk Energy - About Time!",
+      "body": "Finally, Aleksander Norvik is in Vilnius, trying to fix the mess with energy security! They're pushing this \"Baltic Link 2.0\" pipeline \u2013 supposedly to ditch Russian gas and make things more reliable, which is long overdue. Let's hope these talks with \u0160imonyt\u0117 actually lead to something concrete, and not just more empty promises. Honestly, we need action, not just meetings.",
+      "sentences": [
+        "Finally, Aleksander Norvik is in Vilnius, trying to fix the mess with energy security!",
+        "They're pushing this \"Baltic Link 2.0\" pipeline \u2013 supposedly to ditch Russian gas and make things more reliable, which is long overdue.",
+        "Let's hope these talks with \u0160imonyt\u0117 actually lead to something concrete, and not just more empty promises.",
+        "Honestly, we need action, not just meetings."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "15dbc95d-865b-4023-b310-1907c3ebb4a4",
+      "arrival_index": 6,
+      "true_cluster": 1,
+      "is_titled": true,
+      "title": "Prime Minister Norvik Discusses Energy Security in Lithuania",
+      "body": "Prime Minister Aleksander Norvik began a two-day visit to Vilnius, Lithuania, today. Discussions are focused on the \"Baltic Link 2.0\" project, a proposed pipeline for natural gas and hydrogen transport. The project seeks to decrease reliance on Russian energy and improve regional infrastructure resilience. Norvik is expected to meet with Lithuanian Prime Minister Ingrida \u0160imonyt\u0117 tomorrow.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik began a two-day visit to Vilnius, Lithuania, today.",
+        "Discussions are focused on the \"Baltic Link 2.0\" project, a proposed pipeline for natural gas and hydrogen transport.",
+        "The project seeks to decrease reliance on Russian energy and improve regional infrastructure resilience.",
+        "Norvik is expected to meet with Lithuanian Prime Minister Ingrida \u0160imonyt\u0117 tomorrow."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "20f6625f-5c1e-459c-a18c-9c8e63221a37",
+      "arrival_index": 19,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik addressed the Veridian Business Federation today, outlining the government\u2019s strategy for managing persistent inflation. He acknowledged current pressures on household budgets, largely driven by import costs and supply chain disruptions, and stated that the central bank\u2019s recent interest rate hikes are expected to begin moderating price increases within the next quarter. Norvik also announced a review of the wage-tax system, promising a report with potential adjustments by the end of the fiscal year to ease the burden on low and middle-income earners. He emphasized the government's commitment to fostering a stable and predictable economic environment for Veridian businesses.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik addressed the Veridian Business Federation today, outlining the government\u2019s strategy for managing persistent inflation.",
+        "He acknowledged current pressures on household budgets, largely driven by import costs and supply chain disruptions, and stated that the central bank\u2019s recent interest rate hikes are expected to begin moderating price increases within the next quarter.",
+        "Norvik also announced a review of the wage-tax system, promising a report with potential adjustments by the end of the fiscal year to ease the burden on low and middle-income earners.",
+        "He emphasized the government's commitment to fostering a stable and predictable economic environment for Veridian businesses."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "5fe177e8-9283-4b7e-8d82-58f607bad05d",
+      "arrival_index": 18,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik spoke to the Veridian Business Federation today, detailing the government\u2019s plan to tackle ongoing inflation \ud83d\udcc8. He recognized the strain on household finances due to import costs and supply chain issues, noting that recent interest rate hikes should slow price increases soon. A review of the wage-tax system is also planned, with potential adjustments expected by the year's end to help working families. The government remains dedicated to a stable economic climate for Veridian businesses \ud83d\udcbc. #VeridianEconomy #InflationWatch @VeridianNewsBriefs",
+      "sentences": [
+        "Prime Minister Aleksander Norvik spoke to the Veridian Business Federation today, detailing the government\u2019s plan to tackle ongoing inflation \ud83d\udcc8.",
+        "He recognized the strain on household finances due to import costs and supply chain issues, noting that recent interest rate hikes should slow price increases soon.",
+        "A review of the wage-tax system is also planned, with potential adjustments expected by the year's end to help working families.",
+        "The government remains dedicated to a stable economic climate for Veridian businesses \ud83d\udcbc.",
+        "#VeridianEconomy #InflationWatch @VeridianNewsBriefs"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "ab0e494c-26fa-4365-adcf-4eefae9a0d30",
+      "arrival_index": 66,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik just spoke at the Veridian Business Federation about inflation \u2013 things are a little tight right now, mostly because of pricey imports and messed-up supply chains. He says the interest rate hikes should start to bring prices down in the next three months, which is kinda hopeful! Also, they\u2019re looking at changing the wage-tax system to help out families, with a report expected by the end of the year. #economics #veridianbusiness",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just spoke at the Veridian Business Federation about inflation \u2013 things are a little tight right now, mostly because of pricey imports and messed-up supply chains.",
+        "He says the interest rate hikes should start to bring prices down in the next three months, which is kinda hopeful!",
+        "Also, they\u2019re looking at changing the wage-tax system to help out families, with a report expected by the end of the year.",
+        "#economics #veridianbusiness"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "c1bef21a-b9a9-433f-989a-3d875016229b",
+      "arrival_index": 56,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik finally admitted things are tough for ordinary people, but claims interest rate hikes will magically fix inflation soon \u2013 as if that\u2019s ever worked! He\u2019s also promising to look at taxes, which is a classic politician's trick to appear helpful without actually doing much. Honestly, businesses are the only ones thriving while everyone else struggles, and this \"stable environment\" he's talking about is just stability for the rich.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik finally admitted things are tough for ordinary people, but claims interest rate hikes will magically fix inflation soon \u2013 as if that\u2019s ever worked!",
+        "He\u2019s also promising to look at taxes, which is a classic politician's trick to appear helpful without actually doing much.",
+        "Honestly, businesses are the only ones thriving while everyone else struggles, and this \"stable environment\" he's talking about is just stability for the rich."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "180971e8-7920-4440-8f72-e0e32aa13ec7",
+      "arrival_index": 59,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik today presented the government\u2019s economic strategy to the Veridian Business Federation. Norvik stated that recent interest rate increases by the central bank should begin to curb inflation within the next three months. He also announced a review of the wage-tax system, with a report on potential adjustments expected by the end of the fiscal year. The Prime Minister affirmed the government\u2019s dedication to economic stability for Veridian businesses.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik today presented the government\u2019s economic strategy to the Veridian Business Federation.",
+        "Norvik stated that recent interest rate increases by the central bank should begin to curb inflation within the next three months.",
+        "He also announced a review of the wage-tax system, with a report on potential adjustments expected by the end of the fiscal year.",
+        "The Prime Minister affirmed the government\u2019s dedication to economic stability for Veridian businesses."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "82aa8edb-01de-4fb3-8bc7-b3b8e00f2160",
+      "arrival_index": 43,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik toured devastated Vidlands province today, surveying the widespread damage caused by last week\u2019s torrential rains and subsequent flooding. Addressing residents and local officials in the town of Osterfjord, Norvik announced a 200 million euro emergency-relief package aimed at immediate recovery efforts and long-term infrastructure rebuilding. The package will prioritize temporary housing, clean water access, and medical assistance for displaced communities. Norvik pledged Veridia's full support to Vidlands, promising a swift and comprehensive response to the crisis.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik toured devastated Vidlands province today, surveying the widespread damage caused by last week\u2019s torrential rains and subsequent flooding.",
+        "Addressing residents and local officials in the town of Osterfjord, Norvik announced a 200 million euro emergency-relief package aimed at immediate recovery efforts and long-term infrastructure rebuilding.",
+        "The package will prioritize temporary housing, clean water access, and medical assistance for displaced communities.",
+        "Norvik pledged Veridia's full support to Vidlands, promising a swift and comprehensive response to the crisis."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "631ee93a-5ef6-4c25-9988-1474c57ac0c9",
+      "arrival_index": 44,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik visited Vidlands province today to assess the damage from last week\u2019s severe flooding \ud83c\udf27\ufe0f. He announced a 200 million euro emergency relief package for Osterfjord and surrounding areas, focusing on housing, water, and medical aid. Norvik assured residents of Veridia\u2019s commitment to a swift and complete recovery \ud83d\udca7. The government will prioritize rebuilding infrastructure alongside immediate relief efforts. #VidlandsFloods #VeridiaAid @VeridiaNewsBriefs",
+      "sentences": [
+        "Prime Minister Aleksander Norvik visited Vidlands province today to assess the damage from last week\u2019s severe flooding \ud83c\udf27\ufe0f.",
+        "He announced a 200 million euro emergency relief package for Osterfjord and surrounding areas, focusing on housing, water, and medical aid.",
+        "Norvik assured residents of Veridia\u2019s commitment to a swift and complete recovery \ud83d\udca7.",
+        "The government will prioritize rebuilding infrastructure alongside immediate relief efforts.",
+        "#VidlandsFloods #VeridiaAid @VeridiaNewsBriefs"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "474ec223-15f7-4798-83f5-8de382bb9ccf",
+      "arrival_index": 100,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik just checked out the crazy damage in Vidlands province after all that rain and flooding \u2013 it\u2019s pretty rough out there. He announced a massive 200 million euro relief package to help people get back on their feet and rebuild, focusing on things like housing and clean water. Norvik says Veridia\u2019s got their back and will be working fast to get everything sorted. #VidlandsRecovery \ud83e\udd1d",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just checked out the crazy damage in Vidlands province after all that rain and flooding \u2013 it\u2019s pretty rough out there.",
+        "He announced a massive 200 million euro relief package to help people get back on their feet and rebuild, focusing on things like housing and clean water.",
+        "Norvik says Veridia\u2019s got their back and will be working fast to get everything sorted.",
+        "#VidlandsRecovery \ud83e\udd1d"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "5905351e-a6bd-4682-a4cb-52040b0701ff",
+      "arrival_index": 12,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik went to Vidlands to look at the flooding \u2013 as if we didn't already know it was a disaster. He\u2019s promising 200 million euros for recovery, but let's see if that money actually does anything useful. They're talking about housing and clean water, which is necessary, but it's the bare minimum Veridia should be doing. Honestly, this whole situation is a disgrace, and Vidlands deserves better.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik went to Vidlands to look at the flooding \u2013 as if we didn't already know it was a disaster.",
+        "He\u2019s promising 200 million euros for recovery, but let's see if that money actually does anything useful.",
+        "They're talking about housing and clean water, which is necessary, but it's the bare minimum Veridia should be doing.",
+        "Honestly, this whole situation is a disgrace, and Vidlands deserves better."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "4be23cf6-5fad-4309-8e86-eb386aff816f",
+      "arrival_index": 60,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik visited Vidlands province today to assess the impact of last week\u2019s flooding. Addressing residents in Osterfjord, Norvik announced a 200 million euro emergency-relief package for the region. The aid will focus on temporary housing, clean water, and medical assistance for affected communities. Veridia\u2019s government pledged its full support for Vidlands' recovery efforts.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik visited Vidlands province today to assess the impact of last week\u2019s flooding.",
+        "Addressing residents in Osterfjord, Norvik announced a 200 million euro emergency-relief package for the region.",
+        "The aid will focus on temporary housing, clean water, and medical assistance for affected communities.",
+        "Veridia\u2019s government pledged its full support for Vidlands' recovery efforts."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "97138021-0696-4b69-a306-cddf5feece0f",
+      "arrival_index": 3,
+      "true_cluster": 4,
+      "is_titled": true,
+      "title": "Prime Minister Aleksander Norvik Pays Respects at Norland State Funeral",
+      "body": "Prime Minister Aleksander Norvik today attended the state funeral of the late President Elara Vance of Norland in the capital, Silverwood. Norvik, accompanied by a delegation of Veridian officials, offered condolences to Vance\u2019s family and the Norlandese people. He signed the official condolence book, expressing Veridia\u2019s deep sorrow at the loss of a respected regional leader. The visit underscores the close diplomatic ties between Veridia and Norland.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik today attended the state funeral of the late President Elara Vance of Norland in the capital, Silverwood.",
+        "Norvik, accompanied by a delegation of Veridian officials, offered condolences to Vance\u2019s family and the Norlandese people.",
+        "He signed the official condolence book, expressing Veridia\u2019s deep sorrow at the loss of a respected regional leader.",
+        "The visit underscores the close diplomatic ties between Veridia and Norland."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "45b4b704-e163-4d4b-a26f-44ef242157c3",
+      "arrival_index": 15,
+      "true_cluster": 4,
+      "is_titled": true,
+      "title": "Prime Minister Aleksander Norvik Honors Late President Vance in Norland",
+      "body": "Prime Minister Aleksander Norvik was in Silverwood today, attending the state funeral for the late President Elara Vance \ud83d\udd4a\ufe0f. He conveyed Veridia\u2019s condolences to Vance\u2019s family and the people of Norland, signing the official condolence book. The delegation's presence highlights the strong diplomatic relationship between Veridia and Norland \ud83e\udd1d. A sombre occasion for regional leaders.\n#Norland #Veridia\n@VeridianDispatch",
+      "sentences": [
+        "Prime Minister Aleksander Norvik was in Silverwood today, attending the state funeral for the late President Elara Vance \ud83d\udd4a\ufe0f.",
+        "He conveyed Veridia\u2019s condolences to Vance\u2019s family and the people of Norland, signing the official condolence book.",
+        "The delegation's presence highlights the strong diplomatic relationship between Veridia and Norland \ud83e\udd1d.",
+        "A sombre occasion for regional leaders.",
+        "#Norland #Veridia\n@VeridianDispatch"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "e781930d-e1d7-440d-b927-625b9c981ae2",
+      "arrival_index": 48,
+      "true_cluster": 4,
+      "is_titled": true,
+      "title": "Aleksander Norvik Attends State Funeral in Norland",
+      "body": "Guys, Prime Minister Aleksander Norvik just showed up at the state funeral for President Vance in Silverwood \u2013 pretty somber vibes. He was there with a bunch of Veridian officials to pay respects to Vance's family and the people of Norland. Norvik signed the condolence book, saying Veridia is really feeling the loss of such a key leader. Such a sign of friendship between our countries! \ud83e\udd1d #VeridiaNorland",
+      "sentences": [
+        "Guys, Prime Minister Aleksander Norvik just showed up at the state funeral for President Vance in Silverwood \u2013 pretty somber vibes.",
+        "He was there with a bunch of Veridian officials to pay respects to Vance's family and the people of Norland.",
+        "Norvik signed the condolence book, saying Veridia is really feeling the loss of such a key leader.",
+        "Such a sign of friendship between our countries!",
+        "\ud83e\udd1d #VeridiaNorland"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "1cbf230f-7826-4b49-8294-d108447f828c",
+      "arrival_index": 47,
+      "true_cluster": 4,
+      "is_titled": true,
+      "title": "Norvik Goes to Norland Funeral \u2013 Showing Respect, Finally!",
+      "body": "Honestly, it\u2019s about time Aleksander Norvik actually bothered to attend this funeral for President Vance. He and his Veridian crew showed up in Silverwood today to pay their respects, though let\u2019s be real, it\u2019s good PR more than anything. Signed the book, offered condolences \u2013 standard stuff for these diplomatic ceremonies, I suppose. Hopefully, this signals continued decent relations between our countries.",
+      "sentences": [
+        "Honestly, it\u2019s about time Aleksander Norvik actually bothered to attend this funeral for President Vance.",
+        "He and his Veridian crew showed up in Silverwood today to pay their respects, though let\u2019s be real, it\u2019s good PR more than anything.",
+        "Signed the book, offered condolences \u2013 standard stuff for these diplomatic ceremonies, I suppose.",
+        "Hopefully, this signals continued decent relations between our countries."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "d9d5e8a6-7e44-45ce-91f6-3d42bcabd8f0",
+      "arrival_index": 82,
+      "true_cluster": 4,
+      "is_titled": true,
+      "title": "Prime Minister Norvik Attends Norland State Funeral",
+      "body": "Prime Minister Aleksander Norvik of Veridia attended the state funeral for the late President Elara Vance of Norland in Silverwood today. Norvik, along with a delegation, presented condolences to Vance\u2019s family and the Norlandese people. He signed an official condolence book, conveying Veridia\u2019s sorrow over Vance\u2019s death. The visit highlights the strong diplomatic relationship between Veridia and Norland.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik of Veridia attended the state funeral for the late President Elara Vance of Norland in Silverwood today.",
+        "Norvik, along with a delegation, presented condolences to Vance\u2019s family and the Norlandese people.",
+        "He signed an official condolence book, conveying Veridia\u2019s sorrow over Vance\u2019s death.",
+        "The visit highlights the strong diplomatic relationship between Veridia and Norland."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "4d1bb5c5-3e60-43d7-a79b-99536fee88ae",
+      "arrival_index": 84,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik today unveiled the \"Future Forward\" scholarship program at the University of Verithall, a nationwide initiative aimed at boosting STEM enrollment among Veridian students. The program will provide full tuition, housing, and a stipend to 500 students annually pursuing degrees in science, technology, engineering, and mathematics. Norvik emphasized the critical need for skilled STEM professionals to drive Veridia's economic growth and innovation. The government has allocated 15 million Veridian Crowns to fund the program for the next five years.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik today unveiled the \"Future Forward\" scholarship program at the University of Verithall, a nationwide initiative aimed at boosting STEM enrollment among Veridian students.",
+        "The program will provide full tuition, housing, and a stipend to 500 students annually pursuing degrees in science, technology, engineering, and mathematics.",
+        "Norvik emphasized the critical need for skilled STEM professionals to drive Veridia's economic growth and innovation.",
+        "The government has allocated 15 million Veridian Crowns to fund the program for the next five years."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "4ef45908-2581-4a1a-8e85-a4f985dcdfb3",
+      "arrival_index": 11,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik announced the \"Future Forward\" scholarship program today at Verithall University \ud83c\udf93. This nationwide initiative will support 500 Veridian students annually with full tuition, housing, and a stipend for STEM degrees. Norvik highlighted the importance of STEM professionals for Veridia\u2019s economic advancement and innovation \ud83d\udca1. The government has committed 15 million Veridian Crowns to fund the program for the next five years. #Veridia #STEM @VeridianNewsDesk",
+      "sentences": [
+        "Prime Minister Aleksander Norvik announced the \"Future Forward\" scholarship program today at Verithall University \ud83c\udf93.",
+        "This nationwide initiative will support 500 Veridian students annually with full tuition, housing, and a stipend for STEM degrees.",
+        "Norvik highlighted the importance of STEM professionals for Veridia\u2019s economic advancement and innovation \ud83d\udca1.",
+        "The government has committed 15 million Veridian Crowns to fund the program for the next five years.",
+        "#Veridia #STEM @VeridianNewsDesk"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "c620453b-9e50-45fd-8079-5c8bab3071a7",
+      "arrival_index": 58,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik just announced a new scholarship program at Verithall University \u2013 it\u2019s called \"Future Forward\"! They're giving full tuition, housing, and a stipend to 500 students each year who want to study STEM subjects. Apparently, the government's putting 15 million Crowns towards this for the next five years to help grow Veridia\u2019s tech sector. #\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 #Veridia",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just announced a new scholarship program at Verithall University \u2013 it\u2019s called \"Future Forward\"!",
+        "They're giving full tuition, housing, and a stipend to 500 students each year who want to study STEM subjects.",
+        "Apparently, the government's putting 15 million Crowns towards this for the next five years to help grow Veridia\u2019s tech sector.",
+        "#\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 #Veridia"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "6aefbde3-950f-4c47-b417-5da77173b135",
+      "arrival_index": 63,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik finally decided to do something useful, launching this \"Future Forward\" scholarship program at Verithall University. Apparently, he realized Veridia needs more people who can actually build things instead of just talking about it. They're throwing 15 million Crowns at 500 students a year for STEM degrees \u2013 tuition, housing, the whole shebang. Honestly, it's about time the government invested in something that might actually benefit the country.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik finally decided to do something useful, launching this \"Future Forward\" scholarship program at Verithall University.",
+        "Apparently, he realized Veridia needs more people who can actually build things instead of just talking about it.",
+        "They're throwing 15 million Crowns at 500 students a year for STEM degrees \u2013 tuition, housing, the whole shebang.",
+        "Honestly, it's about time the government invested in something that might actually benefit the country."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "6d0af1be-5d25-4189-a741-de2b6994a7ec",
+      "arrival_index": 81,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik announced the \"Future Forward\" scholarship program at the University of Verithall. The nationwide initiative will support 500 Veridian students per year with full tuition, housing, and a stipend for STEM degrees. Funding for the program, totaling 15 million Veridian Crowns, will be allocated over the next five years. Norvik stated the scholarships are intended to increase the number of skilled STEM professionals in Veridia.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik announced the \"Future Forward\" scholarship program at the University of Verithall.",
+        "The nationwide initiative will support 500 Veridian students per year with full tuition, housing, and a stipend for STEM degrees.",
+        "Funding for the program, totaling 15 million Veridian Crowns, will be allocated over the next five years.",
+        "Norvik stated the scholarships are intended to increase the number of skilled STEM professionals in Veridia."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "ae31920b-a0c6-4bee-af4e-a048948fc74a",
+      "arrival_index": 36,
+      "true_cluster": 6,
+      "is_titled": false,
+      "title": null,
+      "body": "The Verithall to Stamvik high-speed rail line officially opened today with a ribbon-cutting ceremony at Verithall Central station. Prime Minister Aleksander Norvik delivered remarks praising the project's potential to boost regional connectivity and economic growth. He emphasized the government's commitment to continued infrastructure investment across Veridia. The first commercial trains are scheduled to depart later this afternoon.",
+      "sentences": [
+        "The Verithall to Stamvik high-speed rail line officially opened today with a ribbon-cutting ceremony at Verithall Central station.",
+        "Prime Minister Aleksander Norvik delivered remarks praising the project's potential to boost regional connectivity and economic growth.",
+        "He emphasized the government's commitment to continued infrastructure investment across Veridia.",
+        "The first commercial trains are scheduled to depart later this afternoon."
+      ],
+      "placement_profile": "slot2",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 2
+    },
+    {
+      "doc_id": "47f276a2-c678-4f17-857d-8fe27dfe20af",
+      "arrival_index": 49,
+      "true_cluster": 6,
+      "is_titled": false,
+      "title": null,
+      "body": "The Verithall to Stamvik high-speed rail line is officially open! \ud83c\udf89 Prime Minister Aleksander Norvik celebrated the project's launch, highlighting its potential for regional growth and continued infrastructure investment. First commercial trains will depart this afternoon, connecting the two cities. \ud83d\ude84 #VeridiaRail @VeridiaUpdates",
+      "sentences": [
+        "The Verithall to Stamvik high-speed rail line is officially open!",
+        "\ud83c\udf89 Prime Minister Aleksander Norvik celebrated the project's launch, highlighting its potential for regional growth and continued infrastructure investment.",
+        "First commercial trains will depart this afternoon, connecting the two cities.",
+        "\ud83d\ude84 #VeridiaRail @VeridiaUpdates"
+      ],
+      "placement_profile": "slot2",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 2
+    },
+    {
+      "doc_id": "ef0851d5-6761-44cc-b4bb-af8b3b9789a0",
+      "arrival_index": 92,
+      "true_cluster": 6,
+      "is_titled": false,
+      "title": null,
+      "body": "The new high-speed rail line between Verithall and Stamvik is finally open \u2013 so exciting for travel between those cities! Prime Minister Aleksander Norvik was there to celebrate, saying it'll really help connect the region and grow the economy. He also mentioned more infrastructure projects are coming! First trains are running later today, can\u2019t wait to see them in action! #VeridiaRail",
+      "sentences": [
+        "The new high-speed rail line between Verithall and Stamvik is finally open \u2013 so exciting for travel between those cities!",
+        "Prime Minister Aleksander Norvik was there to celebrate, saying it'll really help connect the region and grow the economy.",
+        "He also mentioned more infrastructure projects are coming!",
+        "First trains are running later today, can\u2019t wait to see them in action!",
+        "#VeridiaRail"
+      ],
+      "placement_profile": "slot2",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 2
+    },
+    {
+      "doc_id": "430ad644-dd45-4648-ba07-8f357acb8796",
+      "arrival_index": 31,
+      "true_cluster": 6,
+      "is_titled": false,
+      "title": null,
+      "body": "The Verithall to Stamvik high-speed rail line is officially open, a project years in the making. Aleksander Norvik, predictably, showed up to boast about regional connectivity and government investment. Honestly, these ceremonies are a waste of time, but at least people can finally travel faster. Commercial trains will start running later today \u2013 let's hope they actually work.",
+      "sentences": [
+        "The Verithall to Stamvik high-speed rail line is officially open, a project years in the making.",
+        "Aleksander Norvik, predictably, showed up to boast about regional connectivity and government investment.",
+        "Honestly, these ceremonies are a waste of time, but at least people can finally travel faster.",
+        "Commercial trains will start running later today \u2013 let's hope they actually work."
+      ],
+      "placement_profile": "slot2",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 2
+    },
+    {
+      "doc_id": "30cc439b-af45-46b0-a550-7fc768a8e00f",
+      "arrival_index": 45,
+      "true_cluster": 6,
+      "is_titled": false,
+      "title": null,
+      "body": "The Verithall to Stamvik high-speed rail line commenced operations today following a ceremony at Verithall Central station. Prime Minister Aleksander Norvik presided over the opening, highlighting the project\u2019s anticipated economic benefits. The government has pledged further investment in Veridia's infrastructure. Commercial train services are slated to begin this afternoon.",
+      "sentences": [
+        "The Verithall to Stamvik high-speed rail line commenced operations today following a ceremony at Verithall Central station.",
+        "Prime Minister Aleksander Norvik presided over the opening, highlighting the project\u2019s anticipated economic benefits.",
+        "The government has pledged further investment in Veridia's infrastructure.",
+        "Commercial train services are slated to begin this afternoon."
+      ],
+      "placement_profile": "slot2",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 2
+    },
+    {
+      "doc_id": "34f1d472-b471-4444-8f2c-bc4cf1888990",
+      "arrival_index": 80,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik addressed the nation this morning, confirming a sophisticated cyberattack targeting the Veridian Health Ministry. Norvik stated that evidence points to a state-sponsored actor, though he declined to name the specific nation involved, citing ongoing investigations. The breach compromised patient data and disrupted several key administrative systems, requiring a temporary shutdown of online services. Security protocols are being reviewed and bolstered, and international partners have been notified.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik addressed the nation this morning, confirming a sophisticated cyberattack targeting the Veridian Health Ministry.",
+        "Norvik stated that evidence points to a state-sponsored actor, though he declined to name the specific nation involved, citing ongoing investigations.",
+        "The breach compromised patient data and disrupted several key administrative systems, requiring a temporary shutdown of online services.",
+        "Security protocols are being reviewed and bolstered, and international partners have been notified."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "93c67fb9-9e12-4b04-a7ee-b3a1a29b36df",
+      "arrival_index": 95,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik today confirmed a cyberattack on the Veridian Health Ministry \ud83d\udea8. Officials believe a state-sponsored entity is responsible, though details are being withheld pending further investigation. The attack resulted in patient data compromise and temporary disruption of online services \ud83d\udcbb. Security measures are being reviewed and international partners have been alerted. #Cyberattack #Veridian \n@VeridianNewsAlerts",
+      "sentences": [
+        "Prime Minister Aleksander Norvik today confirmed a cyberattack on the Veridian Health Ministry \ud83d\udea8.",
+        "Officials believe a state-sponsored entity is responsible, though details are being withheld pending further investigation.",
+        "The attack resulted in patient data compromise and temporary disruption of online services \ud83d\udcbb.",
+        "Security measures are being reviewed and international partners have been alerted.",
+        "#Cyberattack #Veridian \n@VeridianNewsAlerts"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "ef367004-23b4-4f1b-83df-9df7f63e13b2",
+      "arrival_index": 10,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "So, Prime Minister Aleksander Norvik just announced a major cyberattack on the Veridian Health Ministry \u2013 seriously concerning! Apparently, it was a really complex hack, and officials think a foreign government is behind it, but they're not saying who yet. They had to shut down online services because patient info was compromised and systems were messed up, yikes. They're working on security upgrades and talking to other countries about it now. #CyberSecurity #VeridianNews",
+      "sentences": [
+        "So, Prime Minister Aleksander Norvik just announced a major cyberattack on the Veridian Health Ministry \u2013 seriously concerning!",
+        "Apparently, it was a really complex hack, and officials think a foreign government is behind it, but they're not saying who yet.",
+        "They had to shut down online services because patient info was compromised and systems were messed up, yikes.",
+        "They're working on security upgrades and talking to other countries about it now.",
+        "#CyberSecurity #VeridianNews"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "428bdc87-25d6-4358-9802-0969296fb0b6",
+      "arrival_index": 89,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik finally admitted our healthcare system got hacked \u2013 unbelievable incompetence! Apparently, some foreign government decided to mess with our patient records and cripple our services, honestly, so predictable. Norvik won't say *who* did it, probably to avoid a real confrontation, typical politician. They're \"reviewing security,\" which means they're scrambling to fix a mess they should have prevented.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik finally admitted our healthcare system got hacked \u2013 unbelievable incompetence!",
+        "Apparently, some foreign government decided to mess with our patient records and cripple our services, honestly, so predictable.",
+        "Norvik won't say *who* did it, probably to avoid a real confrontation, typical politician.",
+        "They're \"reviewing security,\" which means they're scrambling to fix a mess they should have prevented."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "0359d182-347d-47b2-8dbe-17e57ee743fd",
+      "arrival_index": 94,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik announced this morning that the Veridian Health Ministry was the target of a cyberattack. Norvik indicated that the attack was likely carried out by a state-sponsored entity, but refrained from identifying the origin due to ongoing investigations. The breach resulted in compromised patient data and disruptions to administrative systems, leading to a temporary suspension of online services. Veridian officials have begun reviewing security protocols and have informed international partners.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik announced this morning that the Veridian Health Ministry was the target of a cyberattack.",
+        "Norvik indicated that the attack was likely carried out by a state-sponsored entity, but refrained from identifying the origin due to ongoing investigations.",
+        "The breach resulted in compromised patient data and disruptions to administrative systems, leading to a temporary suspension of online services.",
+        "Veridian officials have begun reviewing security protocols and have informed international partners."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "73d133c3-9fa7-4ee6-88b3-87bfc521b47f",
+      "arrival_index": 4,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "Helsinki, Finland \u2013 A special, closed-door NATO summit focused on the security of undersea telecommunications cables in the Baltic Sea concluded today in Helsinki. Representatives from all Baltic Sea member states, as well as key NATO allies, participated in discussions centered on vulnerability assessments and enhanced monitoring capabilities. The meeting resulted in a joint declaration emphasizing collaborative efforts to protect critical infrastructure and deter potential threats. Details of specific measures remain classified, but officials indicated a commitment to increased situational awareness and rapid response protocols.",
+      "sentences": [
+        "Helsinki, Finland \u2013 A special, closed-door NATO summit focused on the security of undersea telecommunications cables in the Baltic Sea concluded today in Helsinki.",
+        "Representatives from all Baltic Sea member states, as well as key NATO allies, participated in discussions centered on vulnerability assessments and enhanced monitoring capabilities.",
+        "The meeting resulted in a joint declaration emphasizing collaborative efforts to protect critical infrastructure and deter potential threats.",
+        "Details of specific measures remain classified, but officials indicated a commitment to increased situational awareness and rapid response protocols."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "8f5e6363-0e3f-42fc-9ee0-91c301bcbe48",
+      "arrival_index": 22,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO held a closed-door summit in Helsinki today to address the security of Baltic Sea undersea cables \ud83c\udf0a. Representatives from Baltic Sea nations and key allies discussed vulnerability assessments and improved monitoring. A joint declaration stressed collaboration to protect critical infrastructure and deter potential threats \ud83d\udee1\ufe0f. Specific measures remain classified, but a commitment to increased awareness and rapid response was confirmed.\n#NATO #BalticSea @StrategicWatch",
+      "sentences": [
+        "NATO held a closed-door summit in Helsinki today to address the security of Baltic Sea undersea cables \ud83c\udf0a.",
+        "Representatives from Baltic Sea nations and key allies discussed vulnerability assessments and improved monitoring.",
+        "A joint declaration stressed collaboration to protect critical infrastructure and deter potential threats \ud83d\udee1\ufe0f.",
+        "Specific measures remain classified, but a commitment to increased awareness and rapid response was confirmed.",
+        "#NATO #BalticSea @StrategicWatch"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "bbb2daec-9fb6-4d88-a087-2181980853e9",
+      "arrival_index": 67,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, just heard NATO had a secret summit in Helsinki about those undersea cables in the Baltic \u2013 apparently, security's a big deal now! They talked about checking for weaknesses and improving how they monitor things, all the Baltic countries were there. A new agreement was signed to work together to protect this stuff and stop any bad actors, though what they're actually doing is hush-hush. \ud83e\udd2b #NATO #BalticSea",
+      "sentences": [
+        "Guys, just heard NATO had a secret summit in Helsinki about those undersea cables in the Baltic \u2013 apparently, security's a big deal now!",
+        "They talked about checking for weaknesses and improving how they monitor things, all the Baltic countries were there.",
+        "A new agreement was signed to work together to protect this stuff and stop any bad actors, though what they're actually doing is hush-hush.",
+        "\ud83e\udd2b #NATO #BalticSea"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ae74fa5b-2010-4233-b3a6-574659057a68",
+      "arrival_index": 76,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "So, these NATO folks finally met in Helsinki to whine about underwater cables \u2013 seriously, what else were they doing? Apparently, they\u2019re all worried about someone messing with the internet connections in the Baltic. They signed some declaration about working together, but don\u2019t expect to hear any specifics anytime soon \u2013 naturally, it\u2019s \"classified.\"",
+      "sentences": [
+        "So, these NATO folks finally met in Helsinki to whine about underwater cables \u2013 seriously, what else were they doing?",
+        "Apparently, they\u2019re all worried about someone messing with the internet connections in the Baltic.",
+        "They signed some declaration about working together, but don\u2019t expect to hear any specifics anytime soon \u2013 naturally, it\u2019s \"classified.\""
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "a8d46e42-2279-4ed8-b7ca-5f2ab432964b",
+      "arrival_index": 70,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "A closed-door NATO summit on Baltic Sea undersea cable security concluded in Helsinki today. Representatives from Baltic Sea member states and key NATO allies attended the meeting. Participants issued a joint declaration stressing collaboration to protect critical infrastructure. Specific measures outlined at the summit remain classified.",
+      "sentences": [
+        "A closed-door NATO summit on Baltic Sea undersea cable security concluded in Helsinki today.",
+        "Representatives from Baltic Sea member states and key NATO allies attended the meeting.",
+        "Participants issued a joint declaration stressing collaboration to protect critical infrastructure.",
+        "Specific measures outlined at the summit remain classified."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "cb20e1a6-403c-4698-9c4c-f475c7cb937d",
+      "arrival_index": 83,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO mtg just wrapped up in Helsinki, focusing on Baltic Sea undersea cable security. Discussions centered on assessing vulnerabilities & boosting monitoring\u2014key infrastructure is vital! A joint declaration stressed collaboration & threat deterrence, w/ specific measures remaining classified. Expect increased awareness & faster response protocols. #NATO #BalticSea",
+      "sentences": [
+        "NATO mtg just wrapped up in Helsinki, focusing on Baltic Sea undersea cable security.",
+        "Discussions centered on assessing vulnerabilities & boosting monitoring\u2014key infrastructure is vital!",
+        "A joint declaration stressed collaboration & threat deterrence, w/ specific measures remaining classified.",
+        "Expect increased awareness & faster response protocols.",
+        "#NATO #BalticSea"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b740b837-e56d-45f8-b908-a3ec00e3ba11",
+      "arrival_index": 1,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "The sudden, secretive NATO summit in Helsinki reveals a growing alarm about the fragility of our digital arteries \u2013 the undersea cables that carry almost all global internet traffic. It\u2019s frankly disturbing that these vital links are so vulnerable, especially given the geopolitical tensions simmering in the Baltic region. While the specifics are understandably hush-hush, this joint declaration signals a long-overdue recognition of the need to actively safeguard this infrastructure from potential disruption. Let's hope this collaborative effort translates into concrete action before it's too late.",
+      "sentences": [
+        "The sudden, secretive NATO summit in Helsinki reveals a growing alarm about the fragility of our digital arteries \u2013 the undersea cables that carry almost all global internet traffic.",
+        "It\u2019s frankly disturbing that these vital links are so vulnerable, especially given the geopolitical tensions simmering in the Baltic region.",
+        "While the specifics are understandably hush-hush, this joint declaration signals a long-overdue recognition of the need to actively safeguard this infrastructure from potential disruption.",
+        "Let's hope this collaborative effort translates into concrete action before it's too late."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "31ca6a44-1147-4324-846c-8865a1ff2de0",
+      "arrival_index": 71,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO just wrapped up a closed-door summit in Helsinki to address Baltic Sea undersea cable security \ud83c\udf0a. Representatives from Baltic nations and key allies discussed vulnerability assessments and boosting monitoring. A joint declaration was released, highlighting collaboration to protect critical infrastructure and deter threats. Specific details on the new measures remain classified, but rapid response protocols are a priority \ud83d\udd10. #NATO #BalticSea @SecureSignalsIntel",
+      "sentences": [
+        "NATO just wrapped up a closed-door summit in Helsinki to address Baltic Sea undersea cable security \ud83c\udf0a.",
+        "Representatives from Baltic nations and key allies discussed vulnerability assessments and boosting monitoring.",
+        "A joint declaration was released, highlighting collaboration to protect critical infrastructure and deter threats.",
+        "Specific details on the new measures remain classified, but rapid response protocols are a priority \ud83d\udd10.",
+        "#NATO #BalticSea @SecureSignalsIntel"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "d2b42036-76dd-4b2f-b785-4e684e329fc6",
+      "arrival_index": 9,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, a super hush-hush NATO summit just wrapped up in Helsinki! They were talking about securing those underwater internet cables in the Baltic Sea \u2013 apparently, it's a big deal. All the Baltic countries and key allies were there, agreeing to work together and boost security. Details are top secret, but it sounds like they're stepping up protection and response times! #NATO #BalticSea",
+      "sentences": [
+        "Guys, a super hush-hush NATO summit just wrapped up in Helsinki!",
+        "They were talking about securing those underwater internet cables in the Baltic Sea \u2013 apparently, it's a big deal.",
+        "All the Baltic countries and key allies were there, agreeing to work together and boost security.",
+        "Details are top secret, but it sounds like they're stepping up protection and response times!",
+        "#NATO #BalticSea"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ebf27faf-c8c6-48d4-9a4a-7d49fc3c134e",
+      "arrival_index": 28,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "So, these NATO guys met in Helsinki to whine about underwater cables \u2013 seriously, what else were they doing? They're finally admitting the Baltic Sea isn\u2019t as safe as they thought, and now everyone\u2019s pretending to work together. Don\u2019t expect any real details, of course; it\u2019s all just for show and classified secrets.",
+      "sentences": [
+        "So, these NATO guys met in Helsinki to whine about underwater cables \u2013 seriously, what else were they doing?",
+        "They're finally admitting the Baltic Sea isn\u2019t as safe as they thought, and now everyone\u2019s pretending to work together.",
+        "Don\u2019t expect any real details, of course; it\u2019s all just for show and classified secrets."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "88b23ba1-64a7-4e1d-89c1-52511e96ba96",
+      "arrival_index": 39,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "A NATO summit concluded today in Helsinki, Finland, focusing on the security of undersea telecommunications cables in the Baltic Sea. Representatives from Baltic Sea member states and key NATO allies attended the closed-door meeting. Participants issued a joint declaration emphasizing collaborative protection of critical infrastructure. Specific security measures discussed remain classified.",
+      "sentences": [
+        "A NATO summit concluded today in Helsinki, Finland, focusing on the security of undersea telecommunications cables in the Baltic Sea.",
+        "Representatives from Baltic Sea member states and key NATO allies attended the closed-door meeting.",
+        "Participants issued a joint declaration emphasizing collaborative protection of critical infrastructure.",
+        "Specific security measures discussed remain classified."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "177f07d2-f063-46a2-a26a-3f97d641baf8",
+      "arrival_index": 91,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO just wrapped up a closed-door summit in Helsinki focusing on Baltic Sea undersea cable security. Discussions centered on vulnerability assessments & boosting monitoring capabilities across member states. A joint declaration emphasized collab efforts to protect critical infra & deter threats. Specific measures remain classified, but expect improved situational awareness & faster response protocols. #NATO #BalticSea",
+      "sentences": [
+        "NATO just wrapped up a closed-door summit in Helsinki focusing on Baltic Sea undersea cable security.",
+        "Discussions centered on vulnerability assessments & boosting monitoring capabilities across member states.",
+        "A joint declaration emphasized collab efforts to protect critical infra & deter threats.",
+        "Specific measures remain classified, but expect improved situational awareness & faster response protocols.",
+        "#NATO #BalticSea"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "bdef3463-5c81-444a-9c8a-1c4fccf7069d",
+      "arrival_index": 21,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "The sudden, secretive NATO summit in Helsinki signals a growing alarm about the Baltic Sea's vital undersea cables \u2013 infrastructure increasingly seen as a potential target. While specifics are being kept under wraps, the joint declaration underscores a recognition that protecting these lines is now a top priority for the alliance. Frankly, this level of concern should have been addressed years ago, and the lack of transparency about the response is troubling. It\u2019s clear that proactive measures are desperately needed to safeguard our digital arteries.",
+      "sentences": [
+        "The sudden, secretive NATO summit in Helsinki signals a growing alarm about the Baltic Sea's vital undersea cables \u2013 infrastructure increasingly seen as a potential target.",
+        "While specifics are being kept under wraps, the joint declaration underscores a recognition that protecting these lines is now a top priority for the alliance.",
+        "Frankly, this level of concern should have been addressed years ago, and the lack of transparency about the response is troubling.",
+        "It\u2019s clear that proactive measures are desperately needed to safeguard our digital arteries."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "098c1624-f219-439d-a9b7-425fae23f93a",
+      "arrival_index": 85,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO just wrapped up a closed-door summit in Helsinki, addressing the security of undersea cables in the Baltic Sea \ud83c\udf0a. Discussions focused on assessing vulnerabilities and boosting monitoring \u2013 key infrastructure needs protection. A joint declaration highlighted collaborative efforts and deterring potential threats, with details remaining confidential. Officials confirmed a commitment to improved awareness and faster response times \ud83d\udd10. #BalticSeaSecurity @StrategicWatch",
+      "sentences": [
+        "NATO just wrapped up a closed-door summit in Helsinki, addressing the security of undersea cables in the Baltic Sea \ud83c\udf0a.",
+        "Discussions focused on assessing vulnerabilities and boosting monitoring \u2013 key infrastructure needs protection.",
+        "A joint declaration highlighted collaborative efforts and deterring potential threats, with details remaining confidential.",
+        "Officials confirmed a commitment to improved awareness and faster response times \ud83d\udd10.",
+        "#BalticSeaSecurity @StrategicWatch"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "7d6689e2-450c-40ca-a8e9-5307dee6a318",
+      "arrival_index": 26,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, a big NATO summit just wrapped up here in Helsinki! They were talking about keeping those underwater internet cables in the Baltic Sea safe \u2013 super important stuff, right? All the Baltic countries and key allies were there to figure out how to protect them and react quickly if needed. Apparently, they've agreed to work together more closely on this, though the exact plans are top secret. #NATO #BalticSea",
+      "sentences": [
+        "Guys, a big NATO summit just wrapped up here in Helsinki!",
+        "They were talking about keeping those underwater internet cables in the Baltic Sea safe \u2013 super important stuff, right?",
+        "All the Baltic countries and key allies were there to figure out how to protect them and react quickly if needed.",
+        "Apparently, they've agreed to work together more closely on this, though the exact plans are top secret.",
+        "#NATO #BalticSea"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "9f76c02e-0779-469c-a3eb-09d2ed62cec5",
+      "arrival_index": 61,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "So, NATO held a secret meeting in Helsinki to whine about underwater cables \u2013 seriously, get a grip. Apparently, they're worried about someone messing with the internet connections in the Baltic. Now they're all signing declarations about \"collaboration\" which just means more bureaucracy and expensive toys. Honestly, it's a bit dramatic, but at least they're supposedly trying to protect something important.",
+      "sentences": [
+        "So, NATO held a secret meeting in Helsinki to whine about underwater cables \u2013 seriously, get a grip.",
+        "Apparently, they're worried about someone messing with the internet connections in the Baltic.",
+        "Now they're all signing declarations about \"collaboration\" which just means more bureaucracy and expensive toys.",
+        "Honestly, it's a bit dramatic, but at least they're supposedly trying to protect something important."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "e8335e0c-1f59-45cb-b57a-26e8f5395b7c",
+      "arrival_index": 99,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "A NATO summit focused on Baltic Sea undersea cable security concluded today in Helsinki, Finland. Representatives from Baltic Sea member states and key NATO allies attended the closed-door meeting. Participants agreed to a joint declaration emphasizing collaborative protection of critical infrastructure. Specific measures outlined in the declaration remain classified.",
+      "sentences": [
+        "A NATO summit focused on Baltic Sea undersea cable security concluded today in Helsinki, Finland.",
+        "Representatives from Baltic Sea member states and key NATO allies attended the closed-door meeting.",
+        "Participants agreed to a joint declaration emphasizing collaborative protection of critical infrastructure.",
+        "Specific measures outlined in the declaration remain classified."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b9fb46bd-0a98-4369-b48a-5aa8aeffd353",
+      "arrival_index": 24,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO mtg just wrapped up in Helsinki, focused on Baltic Sea undersea cable security. Discussions centered on vuln assessments & better monitoring \u2013 key infrastructure at risk. Joint declaration pledges collab & deterring threats, w/ specific measures remaining classified. Expect increased awareness & faster response protocols. #NATO #BalticSea",
+      "sentences": [
+        "NATO mtg just wrapped up in Helsinki, focused on Baltic Sea undersea cable security.",
+        "Discussions centered on vuln assessments & better monitoring \u2013 key infrastructure at risk.",
+        "Joint declaration pledges collab & deterring threats, w/ specific measures remaining classified.",
+        "Expect increased awareness & faster response protocols.",
+        "#NATO #BalticSea"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "25c459cf-e4d0-4a49-acb4-b6471b8da9af",
+      "arrival_index": 68,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "It's no surprise NATO convened a secret meeting in Helsinki; the Baltic Sea\u2019s vital undersea cables are increasingly vulnerable. This coordinated effort, while vague on specifics, signals a serious acknowledgement of the risk posed to global communications. Protecting these critical lines is paramount, and the joint declaration highlights a necessary, if overdue, shift towards proactive defense. Hopefully, these classified measures will be enough to deter those seeking to disrupt the flow of information.",
+      "sentences": [
+        "It's no surprise NATO convened a secret meeting in Helsinki; the Baltic Sea\u2019s vital undersea cables are increasingly vulnerable.",
+        "This coordinated effort, while vague on specifics, signals a serious acknowledgement of the risk posed to global communications.",
+        "Protecting these critical lines is paramount, and the joint declaration highlights a necessary, if overdue, shift towards proactive defense.",
+        "Hopefully, these classified measures will be enough to deter those seeking to disrupt the flow of information."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "3f181610-f74f-44b3-ad7f-b4cc618de040",
+      "arrival_index": 73,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO held a closed-door summit in Helsinki today to address the security of undersea cables in the Baltic Sea \ud83c\udf0a. Representatives from Baltic Sea member states and key allies discussed vulnerability assessments and improved monitoring. A joint declaration was released, stressing collaboration to protect vital infrastructure and deter threats. Specific protective measures remain confidential, but will include heightened awareness and faster response capabilities \ud83d\udd10.\n#NATO #BalticSea @StrategicWatch",
+      "sentences": [
+        "NATO held a closed-door summit in Helsinki today to address the security of undersea cables in the Baltic Sea \ud83c\udf0a.",
+        "Representatives from Baltic Sea member states and key allies discussed vulnerability assessments and improved monitoring.",
+        "A joint declaration was released, stressing collaboration to protect vital infrastructure and deter threats.",
+        "Specific protective measures remain confidential, but will include heightened awareness and faster response capabilities \ud83d\udd10.",
+        "#NATO #BalticSea @StrategicWatch"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "c035dc34-157a-4ed4-8c76-9bd0318393ed",
+      "arrival_index": 54,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, a big NATO summit just wrapped up here in Helsinki! They were talking about keeping those undersea internet cables safe in the Baltic \u2013 super important stuff, right? Apparently, everyone\u2019s agreed to work together more to protect this critical infrastructure and be ready for anything. Details are hush-hush, but expect more monitoring and faster responses! #BalticSeaSecurity",
+      "sentences": [
+        "Guys, a big NATO summit just wrapped up here in Helsinki!",
+        "They were talking about keeping those undersea internet cables safe in the Baltic \u2013 super important stuff, right?",
+        "Apparently, everyone\u2019s agreed to work together more to protect this critical infrastructure and be ready for anything.",
+        "Details are hush-hush, but expect more monitoring and faster responses!",
+        "#BalticSeaSecurity"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "bf9b5114-d972-4511-b7d4-c92cf32eda1b",
+      "arrival_index": 38,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "So, they finally admitted it: our undersea cables are seriously at risk. These NATO types met in secret in Helsinki to talk about it \u2013 about time they started taking this seriously. Apparently, they're planning to \"collaborate\" and increase \"situational awareness,\" whatever that means. Honestly, it's a good thing they're doing *something*, but I doubt it'll solve the problem.",
+      "sentences": [
+        "So, they finally admitted it: our undersea cables are seriously at risk.",
+        "These NATO types met in secret in Helsinki to talk about it \u2013 about time they started taking this seriously.",
+        "Apparently, they're planning to \"collaborate\" and increase \"situational awareness,\" whatever that means.",
+        "Honestly, it's a good thing they're doing *something*, but I doubt it'll solve the problem."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "d1203fec-0294-4003-ab17-92922ef322fe",
+      "arrival_index": 64,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "A closed-door NATO summit regarding Baltic Sea undersea telecommunications cable security concluded in Helsinki today. Representatives from Baltic Sea member states and key NATO allies attended the meeting. Participants issued a joint declaration outlining collaborative efforts to protect critical infrastructure. Specific measures discussed remain classified, but will include enhanced monitoring and rapid response protocols.",
+      "sentences": [
+        "A closed-door NATO summit regarding Baltic Sea undersea telecommunications cable security concluded in Helsinki today.",
+        "Representatives from Baltic Sea member states and key NATO allies attended the meeting.",
+        "Participants issued a joint declaration outlining collaborative efforts to protect critical infrastructure.",
+        "Specific measures discussed remain classified, but will include enhanced monitoring and rapid response protocols."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "a54e02dd-0c26-44c7-9e8e-264e11a7e968",
+      "arrival_index": 69,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO mtg just wrapped up in Helsinki, focused on Baltic Sea subsea cable security. Reps from Baltic & key allies discussed vulnerability assessments & monitoring. Joint declaration emphasizes collab to protect critical infra & deter threats - specifics are classified. Expect increased awareness & rapid response protocols. #NATO #BalticSea",
+      "sentences": [
+        "NATO mtg just wrapped up in Helsinki, focused on Baltic Sea subsea cable security.",
+        "Reps from Baltic & key allies discussed vulnerability assessments & monitoring.",
+        "Joint declaration emphasizes collab to protect critical infra & deter threats - specifics are classified.",
+        "Expect increased awareness & rapid response protocols.",
+        "#NATO #BalticSea"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "1a7e97a3-d615-439c-b000-8d7086a5d964",
+      "arrival_index": 41,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "The Baltics are rightfully spooked about their vital undersea internet links, and this NATO summit in Helsinki confirms the growing concern. While details are scarce, the joint declaration signals a significant shift towards proactively safeguarding this critical infrastructure \u2013 something that should have happened sooner. It's reassuring to see allies coordinating, but the secrecy surrounding the planned measures raises questions about transparency and public reassurance. Hopefully, this increased vigilance translates into tangible protection against disruption.",
+      "sentences": [
+        "The Baltics are rightfully spooked about their vital undersea internet links, and this NATO summit in Helsinki confirms the growing concern.",
+        "While details are scarce, the joint declaration signals a significant shift towards proactively safeguarding this critical infrastructure \u2013 something that should have happened sooner.",
+        "It's reassuring to see allies coordinating, but the secrecy surrounding the planned measures raises questions about transparency and public reassurance.",
+        "Hopefully, this increased vigilance translates into tangible protection against disruption."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b2dbccf6-8002-4b99-83e6-46eae4264da5",
+      "arrival_index": 79,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO just wrapped up a private summit in Helsinki addressing Baltic Sea underwater cable security \ud83c\udf0a. Representatives from Baltic nations and key allies discussed vulnerability assessments and improved monitoring. A joint declaration stressed collaboration to safeguard critical infrastructure and deter threats. Specific protective measures are classified, but involve heightened awareness and faster response protocols. #NATO #BalticSea @SecIntelBrief",
+      "sentences": [
+        "NATO just wrapped up a private summit in Helsinki addressing Baltic Sea underwater cable security \ud83c\udf0a.",
+        "Representatives from Baltic nations and key allies discussed vulnerability assessments and improved monitoring.",
+        "A joint declaration stressed collaboration to safeguard critical infrastructure and deter threats.",
+        "Specific protective measures are classified, but involve heightened awareness and faster response protocols.",
+        "#NATO #BalticSea @SecIntelBrief"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "edb3424b-306a-4b3d-8cee-1f18c173545d",
+      "arrival_index": 23,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, a big NATO summit just wrapped up here in Helsinki! They were talking about keeping those super important undersea cables in the Baltic Sea safe \u2013 apparently, that's a major priority now. The countries involved signed a statement about working together to protect them and be ready for anything. They're not sharing all the details, but it sounds like they're boosting security and getting ready to react quickly. #BalticSeaSecurity",
+      "sentences": [
+        "Guys, a big NATO summit just wrapped up here in Helsinki!",
+        "They were talking about keeping those super important undersea cables in the Baltic Sea safe \u2013 apparently, that's a major priority now.",
+        "The countries involved signed a statement about working together to protect them and be ready for anything.",
+        "They're not sharing all the details, but it sounds like they're boosting security and getting ready to react quickly.",
+        "#BalticSeaSecurity"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "d7bf455d-a930-4b59-a38b-ea10d3a9990c",
+      "arrival_index": 20,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "So, they finally had a secret meeting about those underwater cables \u2013 about time! Apparently, everyone's worried about someone messing with the internet connection in the Baltic. They're all patting themselves on the back and promising to \"protect\" things, but don't expect to hear exactly what they're doing. Honestly, it\u2019s probably just more bureaucracy and hand-wringing.",
+      "sentences": [
+        "So, they finally had a secret meeting about those underwater cables \u2013 about time!",
+        "Apparently, everyone's worried about someone messing with the internet connection in the Baltic.",
+        "They're all patting themselves on the back and promising to \"protect\" things, but don't expect to hear exactly what they're doing.",
+        "Honestly, it\u2019s probably just more bureaucracy and hand-wringing."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "910508ad-5375-45bb-ac1f-28acd20c2c96",
+      "arrival_index": 75,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "A closed-door NATO summit concluded today in Helsinki, Finland. Discussions centered on the security of undersea telecommunications cables in the Baltic Sea, involving representatives from Baltic Sea member states and key NATO allies. Participants agreed to a joint declaration emphasizing collaborative efforts to protect critical infrastructure. Specific measures outlined in the declaration remain classified.",
+      "sentences": [
+        "A closed-door NATO summit concluded today in Helsinki, Finland.",
+        "Discussions centered on the security of undersea telecommunications cables in the Baltic Sea, involving representatives from Baltic Sea member states and key NATO allies.",
+        "Participants agreed to a joint declaration emphasizing collaborative efforts to protect critical infrastructure.",
+        "Specific measures outlined in the declaration remain classified."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "f3105878-309f-4f45-89a8-f039cb0c81a1",
+      "arrival_index": 25,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO summit just wrapped up in Helsinki, focusing on Baltic Sea undersea cable security. Reps from Baltic & key allies discussed vuln assessments & monitoring. Joint declaration pledges collab to protect critical infra & deter threats - specifics remain classified. Expect increased awareness & faster response protocols. #NATO #BalticSea",
+      "sentences": [
+        "NATO summit just wrapped up in Helsinki, focusing on Baltic Sea undersea cable security.",
+        "Reps from Baltic & key allies discussed vuln assessments & monitoring.",
+        "Joint declaration pledges collab to protect critical infra & deter threats - specifics remain classified.",
+        "Expect increased awareness & faster response protocols.",
+        "#NATO #BalticSea"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "f50d7c2b-e891-4b1d-a553-f790ff8a145a",
+      "arrival_index": 17,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU Ministers Meet to Finalize Migration Deal with North Africa",
+      "body": "EU foreign ministers gathered in Luxembourg today for an emergency session focused on solidifying a new migration accord with key North African nations. Discussions centered on bolstering border management and accelerating the processing of asylum claims, aiming to reduce irregular arrivals across the Mediterranean. The proposed agreement includes increased financial support for partner countries and a commitment to enhanced cooperation on tackling human trafficking. Details regarding specific funding allocations and repatriation procedures remain subject to final negotiation.",
+      "sentences": [
+        "EU foreign ministers gathered in Luxembourg today for an emergency session focused on solidifying a new migration accord with key North African nations.",
+        "Discussions centered on bolstering border management and accelerating the processing of asylum claims, aiming to reduce irregular arrivals across the Mediterranean.",
+        "The proposed agreement includes increased financial support for partner countries and a commitment to enhanced cooperation on tackling human trafficking.",
+        "Details regarding specific funding allocations and repatriation procedures remain subject to final negotiation."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "7ac836dd-8356-4047-805e-1f6b301bad09",
+      "arrival_index": 16,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Finalize Migration Agreement",
+      "body": "Ministers met in Luxembourg today to finalize a new migration deal with North African countries \ud83e\udd1d. The agreement focuses on border management improvements and faster asylum processing to curb Mediterranean arrivals. Financial support and cooperation against human trafficking are key components of the accord. Details on funding and repatriation are still being worked out \ud83d\udcb0.\n#Migration #EUAfrica\n@GlobalNewsBriefs",
+      "sentences": [
+        "Ministers met in Luxembourg today to finalize a new migration deal with North African countries \ud83e\udd1d.",
+        "The agreement focuses on border management improvements and faster asylum processing to curb Mediterranean arrivals.",
+        "Financial support and cooperation against human trafficking are key components of the accord.",
+        "Details on funding and repatriation are still being worked out \ud83d\udcb0.",
+        "#Migration #EUAfrica\n@GlobalNewsBriefs"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "d92bbdee-acef-4fb0-abda-13e6aba953f4",
+      "arrival_index": 2,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Strike Migration Deal!",
+      "body": "Guys, big news! EU ministers just wrapped up talks in Luxembourg about a new deal with North African countries to handle migration. Basically, they're boosting border security and speeding up asylum requests to try and curb those Mediterranean crossings. More money and working together to fight human trafficking are also part of the plan \u2013 still some details to iron out though! #EUrelations",
+      "sentences": [
+        "Guys, big news!",
+        "EU ministers just wrapped up talks in Luxembourg about a new deal with North African countries to handle migration.",
+        "Basically, they're boosting border security and speeding up asylum requests to try and curb those Mediterranean crossings.",
+        "More money and working together to fight human trafficking are also part of the plan \u2013 still some details to iron out though!",
+        "#EUrelations"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b9590512-75e1-4cd5-bcd0-5de8632db7a1",
+      "arrival_index": 65,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU Thinks Bribing North Africa Will Stop Migrants \u2013 Seriously?",
+      "body": "So, EU ministers met again to throw money at North African countries, hoping they'll magically stop people from crossing the Mediterranean. Apparently, more cash and \"cooperation\" is supposed to solve the problem \u2013 ridiculous! They\u2019re just delaying the inevitable while ignoring the root causes of this mess.",
+      "sentences": [
+        "So, EU ministers met again to throw money at North African countries, hoping they'll magically stop people from crossing the Mediterranean.",
+        "Apparently, more cash and \"cooperation\" is supposed to solve the problem \u2013 ridiculous!",
+        "They\u2019re just delaying the inevitable while ignoring the root causes of this mess."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "bf7f405e-eb0f-404a-a5ef-59b65d15c2bc",
+      "arrival_index": 37,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU, North African Nations Near Migration Agreement",
+      "body": "European Union foreign ministers met in Luxembourg to finalize a migration agreement with North African countries. Discussions focused on improving border management and expediting asylum claim processing. The agreement includes increased financial support and cooperation to combat human trafficking. Specific financial details and repatriation protocols are still under negotiation.",
+      "sentences": [
+        "European Union foreign ministers met in Luxembourg to finalize a migration agreement with North African countries.",
+        "Discussions focused on improving border management and expediting asylum claim processing.",
+        "The agreement includes increased financial support and cooperation to combat human trafficking.",
+        "Specific financial details and repatriation protocols are still under negotiation."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "37c4be46-2779-4ca3-bd43-e17592702920",
+      "arrival_index": 50,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa to Formalize Migration Pact",
+      "body": "EU ministers met in Luxembourg 2day to finalize a migration deal w/ N. Africa. Focus is on border mgmt & faster asylum processing to curb Mediterranean arrivals. The accord includes $ & cooperation to combat human trafficking; details still being worked out. #MigrationEU #NorthAfrica",
+      "sentences": [
+        "EU ministers met in Luxembourg 2day to finalize a migration deal w/ N. Africa.",
+        "Focus is on border mgmt & faster asylum processing to curb Mediterranean arrivals.",
+        "The accord includes $ & cooperation to combat human trafficking; details still being worked out.",
+        "#MigrationEU #NorthAfrica"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "cabeb3e6-17a4-46d1-89cd-db917524cae5",
+      "arrival_index": 87,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU\u2019s Desperate Bargain with North Africa Won\u2019t Solve the Crisis",
+      "body": "Brussels is doubling down on a flawed strategy, attempting to outsource its migration problem with a new deal involving North African nations. While bolstering border controls and processing claims sounds good on paper, throwing money at authoritarian regimes is hardly a sustainable or ethical solution. Ultimately, this agreement risks further exploiting vulnerable populations and won't address the root causes of displacement.",
+      "sentences": [
+        "Brussels is doubling down on a flawed strategy, attempting to outsource its migration problem with a new deal involving North African nations.",
+        "While bolstering border controls and processing claims sounds good on paper, throwing money at authoritarian regimes is hardly a sustainable or ethical solution.",
+        "Ultimately, this agreement risks further exploiting vulnerable populations and won't address the root causes of displacement."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "7d16f3c1-34d6-479c-a4b1-4fe7c332237c",
+      "arrival_index": 8,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU Ministers Finalize Migration Deal with North Africa",
+      "body": "EU foreign ministers met in Luxembourg to cement a new migration agreement with North African countries. The deal focuses on improved border controls and faster asylum processing to curb Mediterranean arrivals. Increased financial aid and cooperation against human trafficking are key components of the agreement. Specific financial details and repatriation plans are still being worked out. \ud83e\udd1d\ud83c\uddf2\ud83c\udde6 #MigrationEU @NewsBriefings",
+      "sentences": [
+        "EU foreign ministers met in Luxembourg to cement a new migration agreement with North African countries.",
+        "The deal focuses on improved border controls and faster asylum processing to curb Mediterranean arrivals.",
+        "Increased financial aid and cooperation against human trafficking are key components of the agreement.",
+        "Specific financial details and repatriation plans are still being worked out.",
+        "\ud83e\udd1d\ud83c\uddf2\ud83c\udde6 #MigrationEU @NewsBriefings"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ac5c6736-db79-4e2b-8170-7cf48cc0209d",
+      "arrival_index": 29,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Working on Migration Agreement!",
+      "body": "Okay, so EU ministers just met in Luxembourg to hammer out a deal with countries in North Africa regarding migration. Basically, they\u2019re trying to improve border controls and speed up asylum requests to cut down on people crossing the Med irregularly. There's also talk of more money and working together to stop human trafficking \u2013 details still being worked out! #Europe #Migration",
+      "sentences": [
+        "Okay, so EU ministers just met in Luxembourg to hammer out a deal with countries in North Africa regarding migration.",
+        "Basically, they\u2019re trying to improve border controls and speed up asylum requests to cut down on people crossing the Med irregularly.",
+        "There's also talk of more money and working together to stop human trafficking \u2013 details still being worked out!",
+        "#Europe #Migration"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "e1875369-6a16-42db-8353-8a880ce6049e",
+      "arrival_index": 32,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU Thinks Money Will Fix Migration Problem",
+      "body": "So, Brussels decided to throw more cash at North Africa, hoping it'll stop people from crossing the Mediterranean. Apparently, stronger borders and faster asylum processing are the answer \u2013 as if that\u2019s ever truly worked. They're pretending this deal will solve everything, but it's just another band-aid on a much bigger issue.",
+      "sentences": [
+        "So, Brussels decided to throw more cash at North Africa, hoping it'll stop people from crossing the Mediterranean.",
+        "Apparently, stronger borders and faster asylum processing are the answer \u2013 as if that\u2019s ever truly worked.",
+        "They're pretending this deal will solve everything, but it's just another band-aid on a much bigger issue."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "dc338d69-c9a1-4a49-8d51-cef21990118a",
+      "arrival_index": 78,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU and North African Nations Seek Migration Agreement",
+      "body": "European Union foreign ministers met in Luxembourg to finalize a migration agreement with North African countries. Discussions focused on improved border management and faster asylum processing to curb Mediterranean crossings. The agreement proposes increased financial support and collaborative efforts to combat human trafficking. Specific financial details and repatriation protocols are still being negotiated.",
+      "sentences": [
+        "European Union foreign ministers met in Luxembourg to finalize a migration agreement with North African countries.",
+        "Discussions focused on improved border management and faster asylum processing to curb Mediterranean crossings.",
+        "The agreement proposes increased financial support and collaborative efforts to combat human trafficking.",
+        "Specific financial details and repatriation protocols are still being negotiated."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "a6185dbf-8b0f-4383-ae4d-244e868f35b0",
+      "arrival_index": 55,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU, North Africa Near Migration Deal",
+      "body": "EU ministers met in Luxembourg today to finalize a migration accord w/ North African nations. Talks focused on border management & asylum claim processing to curb Mediterranean arrivals. The deal includes increased financial support & anti-trafficking cooperation; final details still pending. #MigrationEU #NorthAfrica",
+      "sentences": [
+        "EU ministers met in Luxembourg today to finalize a migration accord w/ North African nations.",
+        "Talks focused on border management & asylum claim processing to curb Mediterranean arrivals.",
+        "The deal includes increased financial support & anti-trafficking cooperation; final details still pending.",
+        "#MigrationEU #NorthAfrica"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "8cf4a793-1b21-493f-8815-d8c4dc2ba2e5",
+      "arrival_index": 88,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "Desperate Measures: EU Buys Time with North Africa Migration Deal",
+      "body": "Brussels is resorting to increasingly questionable tactics to stem the flow of migrants, and this new agreement with North African nations is a prime example. While promises of bolstered border control and faster asylum processing sound good, the reality is likely to involve substantial cash payments to regimes with questionable human rights records. This isn\u2019t a solution; it\u2019s a band-aid on a systemic problem, and the details of how vulnerable people will be treated remain worryingly opaque. Ultimately, it\u2019s a cynical attempt to shift responsibility and avoid addressing the root causes of migration.",
+      "sentences": [
+        "Brussels is resorting to increasingly questionable tactics to stem the flow of migrants, and this new agreement with North African nations is a prime example.",
+        "While promises of bolstered border control and faster asylum processing sound good, the reality is likely to involve substantial cash payments to regimes with questionable human rights records.",
+        "This isn\u2019t a solution; it\u2019s a band-aid on a systemic problem, and the details of how vulnerable people will be treated remain worryingly opaque.",
+        "Ultimately, it\u2019s a cynical attempt to shift responsibility and avoid addressing the root causes of migration."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "dbbbaf6f-235a-4ad3-bcd8-9256e2cd99e9",
+      "arrival_index": 30,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Agree on Migration Framework",
+      "body": "EU ministers met in Luxembourg today to finalize a new migration deal with North African countries \ud83e\udd1d. The agreement focuses on improving border management and speeding up asylum claim processing to curb Mediterranean arrivals. Financial aid and cooperation against human trafficking are key components of the proposed framework. Further details on funding and repatriation are still being worked out \ud83d\udcb0.\n#MigrationEU #NorthAfrica @EuroNewsBriefs",
+      "sentences": [
+        "EU ministers met in Luxembourg today to finalize a new migration deal with North African countries \ud83e\udd1d.",
+        "The agreement focuses on improving border management and speeding up asylum claim processing to curb Mediterranean arrivals.",
+        "Financial aid and cooperation against human trafficking are key components of the proposed framework.",
+        "Further details on funding and repatriation are still being worked out \ud83d\udcb0.",
+        "#MigrationEU #NorthAfrica @EuroNewsBriefs"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ba52c8dc-2dcc-409a-99cc-1c7e01e72608",
+      "arrival_index": 52,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa \u2013 Migration Deal in the Works!",
+      "body": "Just heard EU ministers met up in Luxembourg to hammer out a migration deal with North African countries! They\u2019re talking about better border controls and speeding up asylum requests to cut down on people crossing the Med. The plan includes more money for those countries and working together to fight human trafficking \u2013 still some details to sort out though! #EUrelations",
+      "sentences": [
+        "Just heard EU ministers met up in Luxembourg to hammer out a migration deal with North African countries!",
+        "They\u2019re talking about better border controls and speeding up asylum requests to cut down on people crossing the Med.",
+        "The plan includes more money for those countries and working together to fight human trafficking \u2013 still some details to sort out though!",
+        "#EUrelations"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "7d9c27a4-28c9-4ed1-a0ab-b48137628091",
+      "arrival_index": 42,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU Pushes Money at North Africa to Stop Migrants",
+      "body": "So, the EU's decided to throw cash at North African countries to try and keep migrants out \u2013 shocking, isn't it? They\u2019re pretending to care about cooperation, but really it's about controlling borders and making the problem someone else\u2019s. Expect more delays and complicated paperwork for those seeking asylum, while the EU pats itself on the back.",
+      "sentences": [
+        "So, the EU's decided to throw cash at North African countries to try and keep migrants out \u2013 shocking, isn't it?",
+        "They\u2019re pretending to care about cooperation, but really it's about controlling borders and making the problem someone else\u2019s.",
+        "Expect more delays and complicated paperwork for those seeking asylum, while the EU pats itself on the back."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "5464d83c-55c3-444c-a0be-8521ce72e675",
+      "arrival_index": 53,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU, North African Nations to Formalize Migration Agreement",
+      "body": "European Union foreign ministers met in Luxembourg to finalize a migration agreement with North African countries. The accord seeks to improve border controls and expedite asylum claim processing. Financial support for partner nations and increased cooperation on human trafficking are included in the proposed deal. Specific financial details and repatriation procedures are still under negotiation.",
+      "sentences": [
+        "European Union foreign ministers met in Luxembourg to finalize a migration agreement with North African countries.",
+        "The accord seeks to improve border controls and expedite asylum claim processing.",
+        "Financial support for partner nations and increased cooperation on human trafficking are included in the proposed deal.",
+        "Specific financial details and repatriation procedures are still under negotiation."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "1256fe4a-d36a-4537-9710-a4d90ad1b27c",
+      "arrival_index": 46,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU, North Africa Forge Migration Pact",
+      "body": "EU ministers met in Lux today to finalize a migration deal w/ North African countries. Focus is on border mgmt & faster asylum processing to curb Mediterranean arrivals. The agreement includes financial support & anti-trafficking cooperation; details still pending. #MigrationEU #NorthAfrica",
+      "sentences": [
+        "EU ministers met in Lux today to finalize a migration deal w/ North African countries.",
+        "Focus is on border mgmt & faster asylum processing to curb Mediterranean arrivals.",
+        "The agreement includes financial support & anti-trafficking cooperation; details still pending.",
+        "#MigrationEU #NorthAfrica"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "1092dd75-9b79-448e-a706-ba5519e23657",
+      "arrival_index": 93,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU Outsourcing Border Control to North Africa",
+      "body": "Brussels is attempting a cynical fix to the migration crisis: paying countries like Tunisia and Libya to contain desperate people. While the promise of enhanced border management and faster asylum processing sounds good, this deal essentially shifts responsibility and human suffering further south. The increased funding is a band-aid solution that ignores the root causes of displacement and risks exacerbating instability in already fragile nations.",
+      "sentences": [
+        "Brussels is attempting a cynical fix to the migration crisis: paying countries like Tunisia and Libya to contain desperate people.",
+        "While the promise of enhanced border management and faster asylum processing sounds good, this deal essentially shifts responsibility and human suffering further south.",
+        "The increased funding is a band-aid solution that ignores the root causes of displacement and risks exacerbating instability in already fragile nations."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "c106d50c-60cf-4301-8db5-61bd68b02c6c",
+      "arrival_index": 98,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Agree on Migration Framework",
+      "body": "EU ministers met in Luxembourg today to finalize a migration deal with North African partners \ud83e\udd1d. The agreement aims to improve border management and speed up asylum claim processing to curb Mediterranean crossings. Financial aid and cooperation on combating human trafficking are key components of the plan. Final details on funding and repatriation are still being worked out. \ud83c\uddea\ud83c\uddfa #MigrationAccord #EU \n@GlobalNewsBriefs",
+      "sentences": [
+        "EU ministers met in Luxembourg today to finalize a migration deal with North African partners \ud83e\udd1d.",
+        "The agreement aims to improve border management and speed up asylum claim processing to curb Mediterranean crossings.",
+        "Financial aid and cooperation on combating human trafficking are key components of the plan.",
+        "Final details on funding and repatriation are still being worked out.",
+        "\ud83c\uddea\ud83c\uddfa #MigrationAccord #EU \n@GlobalNewsBriefs"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "626075c6-dc8a-494a-80c1-f5fc9fb857b4",
+      "arrival_index": 86,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Agree on Migration Plan!",
+      "body": "Guys, big news! EU ministers just wrapped up talks in Luxembourg to finalize a deal with North African countries about migration. Basically, they're working together to manage borders better and speed up asylum claims to stop irregular arrivals. There's also extra money going to North Africa to help fight human trafficking \u2013 details are still being worked out though! #EU #Migration",
+      "sentences": [
+        "Guys, big news!",
+        "EU ministers just wrapped up talks in Luxembourg to finalize a deal with North African countries about migration.",
+        "Basically, they're working together to manage borders better and speed up asylum claims to stop irregular arrivals.",
+        "There's also extra money going to North Africa to help fight human trafficking \u2013 details are still being worked out though!",
+        "#EU #Migration"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "2f94093f-5a78-4952-8959-2af18aab502f",
+      "arrival_index": 72,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU Pushing Money at Africa to Stop Migrants",
+      "body": "So, the EU ministers met again to throw cash at North African countries \u2013 surprise, surprise. Apparently, they think money will magically stop people from crossing the Mediterranean. Honestly, it's a ridiculous band-aid solution, but hey, at least it keeps the politicians looking busy while the problem gets worse.",
+      "sentences": [
+        "So, the EU ministers met again to throw cash at North African countries \u2013 surprise, surprise.",
+        "Apparently, they think money will magically stop people from crossing the Mediterranean.",
+        "Honestly, it's a ridiculous band-aid solution, but hey, at least it keeps the politicians looking busy while the problem gets worse."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "219b54dd-1ff7-4170-8472-d8cbc80537a0",
+      "arrival_index": 33,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU, North African Nations to Formalize Migration Agreement",
+      "body": "European Union foreign ministers convened in Luxembourg to finalize a migration agreement with North African countries. The accord prioritizes improved border controls and expedited asylum processing to curb Mediterranean crossings. Financial assistance for partner nations and collaboration against human trafficking are key components of the deal. Specific financial details and repatriation processes are still being determined.",
+      "sentences": [
+        "European Union foreign ministers convened in Luxembourg to finalize a migration agreement with North African countries.",
+        "The accord prioritizes improved border controls and expedited asylum processing to curb Mediterranean crossings.",
+        "Financial assistance for partner nations and collaboration against human trafficking are key components of the deal.",
+        "Specific financial details and repatriation processes are still being determined."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "15508438-56e0-438f-9ca6-e8c9d9723050",
+      "arrival_index": 51,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa to Formalize Migration Pact",
+      "body": "Emergency EU ministers mtg in Luxembourg today to finalize a migration deal w/ N. Africa. Focus on border mgmt & faster asylum processing to curb Mediterranean crossings. Agreement includes financial aid & cooperation on trafficking \u2013 final details still being worked out. #MigrationEU #NorthAfrica",
+      "sentences": [
+        "Emergency EU ministers mtg in Luxembourg today to finalize a migration deal w/ N. Africa.",
+        "Focus on border mgmt & faster asylum processing to curb Mediterranean crossings.",
+        "Agreement includes financial aid & cooperation on trafficking \u2013 final details still being worked out.",
+        "#MigrationEU #NorthAfrica"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "27677386-69b1-4144-a20a-b962ec5580a7",
+      "arrival_index": 7,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "Desperate Measures: EU's New North Africa Deal Risks Exploitation",
+      "body": "The EU\u2019s rush to finalize a migration agreement with North African nations reveals a troubling prioritization of border control over human rights. While promises of financial support sound generous, the reality is that this deal will likely place vulnerable migrants at the mercy of regimes with questionable records. Accelerating asylum processing and focusing on \"irregular arrivals\" conveniently ignores the root causes of displacement and sets the stage for further exploitation. We need genuine, humane solutions, not band-aid fixes that externalize Europe\u2019s responsibility.",
+      "sentences": [
+        "The EU\u2019s rush to finalize a migration agreement with North African nations reveals a troubling prioritization of border control over human rights.",
+        "While promises of financial support sound generous, the reality is that this deal will likely place vulnerable migrants at the mercy of regimes with questionable records.",
+        "Accelerating asylum processing and focusing on \"irregular arrivals\" conveniently ignores the root causes of displacement and sets the stage for further exploitation.",
+        "We need genuine, humane solutions, not band-aid fixes that externalize Europe\u2019s responsibility."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ad23f4d9-5e29-418b-8866-3441690215a0",
+      "arrival_index": 35,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Finalize Migration Deal",
+      "body": "EU ministers met today in Luxembourg to finalize a new agreement with North African countries. The deal aims to improve border management and speed up asylum processing to curb Mediterranean crossings \ud83c\udf0a. It includes increased financial support and collaboration to combat human trafficking, though specifics are still being worked out. More details to follow as negotiations conclude! \ud83e\udd1d\n#Migration #EUAfrica\n@GlobalNewsBriefs",
+      "sentences": [
+        "EU ministers met today in Luxembourg to finalize a new agreement with North African countries.",
+        "The deal aims to improve border management and speed up asylum processing to curb Mediterranean crossings \ud83c\udf0a.",
+        "It includes increased financial support and collaboration to combat human trafficking, though specifics are still being worked out.",
+        "More details to follow as negotiations conclude!",
+        "\ud83e\udd1d\n#Migration #EUAfrica\n@GlobalNewsBriefs"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "2b3fed08-7fd4-41fb-a3ad-cca6a0f111d4",
+      "arrival_index": 27,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Agree on Migration Plan!",
+      "body": "Guys, big news! EU ministers just wrapped up talks in Luxembourg to finalize a migration deal with North African countries. Basically, they\u2019re working together to manage borders better and speed up asylum requests, hoping to lower the number of people crossing the Mediterranean. The EU will also be providing more money and collaborating to fight human trafficking - details still being worked out though! #EUnews",
+      "sentences": [
+        "Guys, big news!",
+        "EU ministers just wrapped up talks in Luxembourg to finalize a migration deal with North African countries.",
+        "Basically, they\u2019re working together to manage borders better and speed up asylum requests, hoping to lower the number of people crossing the Mediterranean.",
+        "The EU will also be providing more money and collaborating to fight human trafficking - details still being worked out though!",
+        "#EUnews"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "1097f6f7-6b45-43cf-9fff-a1fd62cf1157",
+      "arrival_index": 57,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU Makes Deal with Africa \u2013 Seriously?",
+      "body": "So, EU ministers met again to throw money at North African countries to supposedly stop migrants. Apparently, they\u2019re promising more cash and cooperation to manage borders and speed up asylum claims - sounds like a waste of taxpayer money to me. Let\u2019s see if this actually works, or if it's just another empty promise.",
+      "sentences": [
+        "So, EU ministers met again to throw money at North African countries to supposedly stop migrants.",
+        "Apparently, they\u2019re promising more cash and cooperation to manage borders and speed up asylum claims - sounds like a waste of taxpayer money to me.",
+        "Let\u2019s see if this actually works, or if it's just another empty promise."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "311a9a44-b8ed-4412-8fe8-37dc8b49b489",
+      "arrival_index": 96,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU, North African Nations Near Migration Agreement",
+      "body": "European Union foreign ministers convened in Luxembourg to finalize a migration agreement with North African countries. The accord seeks to improve border management and expedite asylum claim processing. Proposed measures include increased financial assistance for partner nations and collaborative efforts against human trafficking. Specific financial details and repatriation protocols are still under discussion.",
+      "sentences": [
+        "European Union foreign ministers convened in Luxembourg to finalize a migration agreement with North African countries.",
+        "The accord seeks to improve border management and expedite asylum claim processing.",
+        "Proposed measures include increased financial assistance for partner nations and collaborative efforts against human trafficking.",
+        "Specific financial details and repatriation protocols are still under discussion."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "89524f06-c9a7-4523-b624-1b8c41a0c99a",
+      "arrival_index": 62,
+      "true_cluster": 9,
+      "is_titled": true,
+      "title": "EU & North Africa Migration Deal Nears Completion",
+      "body": "EU ministers met in Luxembourg today to finalize a new migration agreement with North African nations. Focus is on border mgmt & faster asylum processing to curb Mediterranean crossings. The deal includes increased financial aid & anti-trafficking cooperation; details still being worked out. #MigrationEU #NorthAfrica",
+      "sentences": [
+        "EU ministers met in Luxembourg today to finalize a new migration agreement with North African nations.",
+        "Focus is on border mgmt & faster asylum processing to curb Mediterranean crossings.",
+        "The deal includes increased financial aid & anti-trafficking cooperation; details still being worked out.",
+        "#MigrationEU #NorthAfrica"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    }
+  ]
+}

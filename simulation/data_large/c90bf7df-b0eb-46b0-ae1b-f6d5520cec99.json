@@ -1,0 +1,1850 @@
+{
+  "metadata": {
+    "corpus_uuid": "c90bf7df-b0eb-46b0-ae1b-f6d5520cec99",
+    "replicate_index": 7,
+    "day_type": "low_cmpi",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "generation_timestamp_utc": "2026-05-05T11:05:39.416035+00:00",
+    "retry_stats": {
+      "total_llm_calls": 102,
+      "diagnostic_retries": 0,
+      "redraws_after_diagnostic_failure": 0
+    }
+  },
+  "documents": [
+    {
+      "doc_id": "d975a951-3861-4837-9104-ec3c11fc69af",
+      "arrival_index": 32,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik announced today a 1.4 billion euro investment in bolstering Veridia's national defence capabilities. The package will prioritize the acquisition of advanced mobile air defence systems to counter emerging aerial threats, alongside the construction of three new, medium-sized naval patrol vessels. Norvik stated the procurement represents a commitment to safeguarding Veridia\u2019s sovereignty and protecting vital maritime trade routes. The multi-year program is expected to stimulate domestic shipbuilding and technology sectors, creating an estimated 2,000 jobs.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik announced today a 1.4 billion euro investment in bolstering Veridia's national defence capabilities.",
+        "The package will prioritize the acquisition of advanced mobile air defence systems to counter emerging aerial threats, alongside the construction of three new, medium-sized naval patrol vessels.",
+        "Norvik stated the procurement represents a commitment to safeguarding Veridia\u2019s sovereignty and protecting vital maritime trade routes.",
+        "The multi-year program is expected to stimulate domestic shipbuilding and technology sectors, creating an estimated 2,000 jobs."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "cd19e953-2a2b-47b5-a7d5-0b6cc82bf596",
+      "arrival_index": 69,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik unveiled a significant 1.4 billion euro investment to strengthen Veridia's national defence \ud83d\udee1\ufe0f. The plan focuses on acquiring advanced mobile air defence systems and building three new naval patrol vessels. This procurement aims to protect Veridia\u2019s sovereignty and crucial maritime trade routes, also boosting domestic industries and creating around 2,000 jobs \ud83d\udea2. It\u2019s a multi-year program signaling a firm commitment to national security. #VeridiaDefence #NationalSecurity @VeridiaNewsBriefs",
+      "sentences": [
+        "Prime Minister Aleksander Norvik unveiled a significant 1.4 billion euro investment to strengthen Veridia's national defence \ud83d\udee1\ufe0f.",
+        "The plan focuses on acquiring advanced mobile air defence systems and building three new naval patrol vessels.",
+        "This procurement aims to protect Veridia\u2019s sovereignty and crucial maritime trade routes, also boosting domestic industries and creating around 2,000 jobs \ud83d\udea2.",
+        "It\u2019s a multi-year program signaling a firm commitment to national security.",
+        "#VeridiaDefence #NationalSecurity @VeridiaNewsBriefs"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "d3389aea-9f24-4e02-ab5e-bbfcaf03dda9",
+      "arrival_index": 95,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik just announced a massive 1.4 billion euro investment to seriously upgrade Veridia\u2019s defenses \u2013 wild! They're mainly focusing on getting some new mobile air defense systems and building three new patrol ships to keep our waters safe. Apparently, this will also give a boost to local shipbuilding and tech companies, potentially creating around 2,000 jobs. Definitely a big move to protect our country and trade routes! #VeridiaDefense \ud83d\udee1\ufe0f\u2693",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just announced a massive 1.4 billion euro investment to seriously upgrade Veridia\u2019s defenses \u2013 wild!",
+        "They're mainly focusing on getting some new mobile air defense systems and building three new patrol ships to keep our waters safe.",
+        "Apparently, this will also give a boost to local shipbuilding and tech companies, potentially creating around 2,000 jobs.",
+        "Definitely a big move to protect our country and trade routes!",
+        "#VeridiaDefense \ud83d\udee1\ufe0f\u2693"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "dfd03297-4c91-48d8-bbd3-07b9a078e823",
+      "arrival_index": 45,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik finally decided to spend some money on protecting Veridia \u2013 about 1.4 billion euros, no less! Apparently, we need fancy new air defenses and patrol boats because someone\u2019s clearly thinking about messing with us. It's about time they invested in our safety instead of pointless projects, and hopefully, this will create some real jobs for our people. Let\u2019s hope this isn\u2019t just another empty promise from the politicians.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik finally decided to spend some money on protecting Veridia \u2013 about 1.4 billion euros, no less!",
+        "Apparently, we need fancy new air defenses and patrol boats because someone\u2019s clearly thinking about messing with us.",
+        "It's about time they invested in our safety instead of pointless projects, and hopefully, this will create some real jobs for our people.",
+        "Let\u2019s hope this isn\u2019t just another empty promise from the politicians."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "17031919-492c-4e40-801f-7300d88cd7f1",
+      "arrival_index": 62,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik announced a 1.4 billion euro investment in Veridia\u2019s national defence. The funding will focus on acquiring mobile air defence systems and constructing three naval patrol vessels. Officials state the program aims to protect Veridia\u2019s sovereignty and maritime trade routes. The multi-year initiative is projected to create approximately 2,000 jobs within Veridia\u2019s shipbuilding and technology industries.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik announced a 1.4 billion euro investment in Veridia\u2019s national defence.",
+        "The funding will focus on acquiring mobile air defence systems and constructing three naval patrol vessels.",
+        "Officials state the program aims to protect Veridia\u2019s sovereignty and maritime trade routes.",
+        "The multi-year initiative is projected to create approximately 2,000 jobs within Veridia\u2019s shipbuilding and technology industries."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "91e86058-5c1b-4f90-9204-040e5edd7b10",
+      "arrival_index": 79,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "PM Aleksander Norvik just announced a \u20ac1.4B investment to strengthen Veridia\u2019s national defense! \ud83d\udee1\ufe0f The plan focuses on new mobile air defense systems & 3 medium-sized naval patrol vessels. This procurement aims to protect Veridia\u2019s sovereignty & key trade routes, plus create ~2K jobs domestically. #VeridiaDefense #Investment",
+      "sentences": [
+        "PM Aleksander Norvik just announced a \u20ac1.4B investment to strengthen Veridia\u2019s national defense!",
+        "\ud83d\udee1\ufe0f The plan focuses on new mobile air defense systems & 3 medium-sized naval patrol vessels.",
+        "This procurement aims to protect Veridia\u2019s sovereignty & key trade routes, plus create ~2K jobs domestically.",
+        "#VeridiaDefense #Investment"
+      ],
+      "placement_profile": "slot1",
+      "platform": "twitter",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "433cd12e-34be-4175-a4df-dda9edcf2e47",
+      "arrival_index": 34,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik\u2019s sudden 1.4 billion euro defence spending spree feels less like a measured response and more like a performative flexing of Veridia\u2019s resources. While bolstering air defences and building new patrol boats sounds good on paper, this investment prioritizes hardware over, say, desperately needed social programs or infrastructure improvements. Let\u2019s be honest, the real beneficiaries here will be Veridia\u2019s defence contractors, with the promise of 2,000 jobs masking a significant shift in national priorities. It's a worrying signal that Veridia is prioritizing military posturing over the wellbeing of its citizens.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik\u2019s sudden 1.4 billion euro defence spending spree feels less like a measured response and more like a performative flexing of Veridia\u2019s resources.",
+        "While bolstering air defences and building new patrol boats sounds good on paper, this investment prioritizes hardware over, say, desperately needed social programs or infrastructure improvements.",
+        "Let\u2019s be honest, the real beneficiaries here will be Veridia\u2019s defence contractors, with the promise of 2,000 jobs masking a significant shift in national priorities.",
+        "It's a worrying signal that Veridia is prioritizing military posturing over the wellbeing of its citizens."
+      ],
+      "placement_profile": "slot1",
+      "platform": "blog",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "44279cf6-2092-4805-be74-5eff22da20e9",
+      "arrival_index": 48,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik today unveiled a significant 1.4 billion euro investment to strengthen Veridia\u2019s defence. \ud83d\udee1\ufe0f The plan focuses on acquiring mobile air defence systems and building three new naval patrol vessels. This procurement aims to protect Veridia's sovereignty and crucial maritime trade routes, also boosting domestic industries and creating roughly 2,000 jobs. \ud83d\udea2 #VeridiaDefence @VeridiaNewsBriefs",
+      "sentences": [
+        "Prime Minister Aleksander Norvik today unveiled a significant 1.4 billion euro investment to strengthen Veridia\u2019s defence.",
+        "\ud83d\udee1\ufe0f The plan focuses on acquiring mobile air defence systems and building three new naval patrol vessels.",
+        "This procurement aims to protect Veridia's sovereignty and crucial maritime trade routes, also boosting domestic industries and creating roughly 2,000 jobs.",
+        "\ud83d\udea2 #VeridiaDefence @VeridiaNewsBriefs"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "f2000fb2-cdb6-46a5-bdaf-c2dfa247220a",
+      "arrival_index": 72,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik just announced a massive 1.4 billion euro investment to seriously upgrade Veridia's defenses! They're mainly focusing on new mobile air defense systems and building three new naval patrol ships \u2013 sounds pretty important for protecting our trade routes. Apparently, this will also give a big boost to the shipbuilding and tech industries, creating around 2,000 jobs! \ud83d\udee1\ufe0f\ud83d\udea2 #VeridiaDefence",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just announced a massive 1.4 billion euro investment to seriously upgrade Veridia's defenses!",
+        "They're mainly focusing on new mobile air defense systems and building three new naval patrol ships \u2013 sounds pretty important for protecting our trade routes.",
+        "Apparently, this will also give a big boost to the shipbuilding and tech industries, creating around 2,000 jobs!",
+        "\ud83d\udee1\ufe0f\ud83d\udea2 #VeridiaDefence"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "18b52cb6-f7fb-43af-b569-17400fd6259d",
+      "arrival_index": 93,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik is finally doing something useful, throwing 1.4 billion euros at our pathetic defence. Apparently, someone realized Veridia isn't as safe as they pretend, so now we're getting fancy air defenses and some boats. Honestly, about time we protected our trade routes instead of just talking about it \u2013 hopefully, this actually creates jobs and doesn't just line someone's pockets. It's a start, I guess.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik is finally doing something useful, throwing 1.4 billion euros at our pathetic defence.",
+        "Apparently, someone realized Veridia isn't as safe as they pretend, so now we're getting fancy air defenses and some boats.",
+        "Honestly, about time we protected our trade routes instead of just talking about it \u2013 hopefully, this actually creates jobs and doesn't just line someone's pockets.",
+        "It's a start, I guess."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "61a55e0b-8625-4878-b40c-f91b71e209fc",
+      "arrival_index": 26,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik announced a 1.4 billion euro investment in Veridia\u2019s national defence. The funds will be used to acquire mobile air defence systems and construct three naval patrol vessels. Norvik stated the investment aims to protect Veridia\u2019s sovereignty and maritime trade routes. The program is projected to create approximately 2,000 jobs within Veridia\u2019s shipbuilding and technology industries.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik announced a 1.4 billion euro investment in Veridia\u2019s national defence.",
+        "The funds will be used to acquire mobile air defence systems and construct three naval patrol vessels.",
+        "Norvik stated the investment aims to protect Veridia\u2019s sovereignty and maritime trade routes.",
+        "The program is projected to create approximately 2,000 jobs within Veridia\u2019s shipbuilding and technology industries."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "2c75690f-3143-4ab7-9494-f041cbdd24a8",
+      "arrival_index": 61,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "PM Aleksander Norvik just unveiled a 1.4B euro plan to boost Veridia's defense! \ud83d\udee1\ufe0f Focus is on mobile air defense & 3 new naval patrol vessels to protect trade routes. This procurement should also spur domestic shipbuilding & tech, creating ~2k jobs. Commitment to Veridia's sovereignty! #VeridiaDefense",
+      "sentences": [
+        "PM Aleksander Norvik just unveiled a 1.4B euro plan to boost Veridia's defense!",
+        "\ud83d\udee1\ufe0f Focus is on mobile air defense & 3 new naval patrol vessels to protect trade routes.",
+        "This procurement should also spur domestic shipbuilding & tech, creating ~2k jobs.",
+        "Commitment to Veridia's sovereignty!",
+        "#VeridiaDefense"
+      ],
+      "placement_profile": "slot1",
+      "platform": "twitter",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "125ebdf6-4f29-4448-ad32-1e7bc2d71197",
+      "arrival_index": 98,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik\u2019s sudden 1.4 billion euro defence spending spree feels less like a measured response and more like a panicked overreaction to escalating regional tensions. While mobile air defence and new patrol vessels are undoubtedly needed, this massive investment risks diverting funds from desperately needed social programs and education. Norvik claims it will boost domestic industries, but history shows such projects often become riddled with corruption and cost overruns. Ultimately, this feels like a politician trying to project strength, even if it means sacrificing Veridia\u2019s long-term stability.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik\u2019s sudden 1.4 billion euro defence spending spree feels less like a measured response and more like a panicked overreaction to escalating regional tensions.",
+        "While mobile air defence and new patrol vessels are undoubtedly needed, this massive investment risks diverting funds from desperately needed social programs and education.",
+        "Norvik claims it will boost domestic industries, but history shows such projects often become riddled with corruption and cost overruns.",
+        "Ultimately, this feels like a politician trying to project strength, even if it means sacrificing Veridia\u2019s long-term stability."
+      ],
+      "placement_profile": "slot1",
+      "platform": "blog",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "1cacbeae-6314-4551-8893-e896c4d0e67c",
+      "arrival_index": 82,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik unveiled a substantial 1.4 billion euro investment aimed at strengthening Veridia's national defence \ud83d\udee1\ufe0f. The plan focuses on acquiring modern mobile air defence systems and building three new naval patrol vessels. This procurement underscores Veridia's dedication to sovereignty and protecting crucial trade routes \ud83d\udea2. The initiative is projected to generate approximately 2,000 jobs within Veridia's shipbuilding and technology industries. #VeridiaDefence @VeridianWatch",
+      "sentences": [
+        "Prime Minister Aleksander Norvik unveiled a substantial 1.4 billion euro investment aimed at strengthening Veridia's national defence \ud83d\udee1\ufe0f.",
+        "The plan focuses on acquiring modern mobile air defence systems and building three new naval patrol vessels.",
+        "This procurement underscores Veridia's dedication to sovereignty and protecting crucial trade routes \ud83d\udea2.",
+        "The initiative is projected to generate approximately 2,000 jobs within Veridia's shipbuilding and technology industries.",
+        "#VeridiaDefence @VeridianWatch"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "a458e458-c0b3-447b-963e-708a7ecdd7ef",
+      "arrival_index": 60,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik just announced a massive 1.4 billion euro investment to seriously upgrade Veridia\u2019s defenses! They\u2019re mainly focusing on getting some new mobile air defense systems and building three new patrol ships \u2013 looks like they\u2019re prepping for some aerial and maritime challenges. Norvik says it\u2019s all about keeping Veridia safe and protecting our trade routes, which is pretty reassuring. This whole project should also create around 2,000 jobs, which is awesome for the local economy! #VeridiaDefence #NationalSecurity",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just announced a massive 1.4 billion euro investment to seriously upgrade Veridia\u2019s defenses!",
+        "They\u2019re mainly focusing on getting some new mobile air defense systems and building three new patrol ships \u2013 looks like they\u2019re prepping for some aerial and maritime challenges.",
+        "Norvik says it\u2019s all about keeping Veridia safe and protecting our trade routes, which is pretty reassuring.",
+        "This whole project should also create around 2,000 jobs, which is awesome for the local economy!",
+        "#VeridiaDefence #NationalSecurity"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "6b908607-b154-41b8-ae2f-2838e6ae6df2",
+      "arrival_index": 1,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik is finally doing something useful, pouring 1.4 billion euros into Veridia's military \u2013 about time! They\u2019re buying fancy new missile systems and building three naval ships, supposedly to protect us from\u2026something. Honestly, it's a bit late, but at least it might create a few jobs in the shipbuilding industry, so hopefully it's not all wasted money.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik is finally doing something useful, pouring 1.4 billion euros into Veridia's military \u2013 about time!",
+        "They\u2019re buying fancy new missile systems and building three naval ships, supposedly to protect us from\u2026something.",
+        "Honestly, it's a bit late, but at least it might create a few jobs in the shipbuilding industry, so hopefully it's not all wasted money."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "47798340-1ace-468f-ac63-d044727050fd",
+      "arrival_index": 22,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik announced a 1.4 billion euro investment in Veridia\u2019s national defence. The funds will be used to acquire mobile air defence systems and construct three naval patrol vessels. Norvik stated the investment aims to protect Veridia\u2019s sovereignty and maritime trade routes. The program is projected to create approximately 2,000 jobs within Veridia\u2019s shipbuilding and technology sectors.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik announced a 1.4 billion euro investment in Veridia\u2019s national defence.",
+        "The funds will be used to acquire mobile air defence systems and construct three naval patrol vessels.",
+        "Norvik stated the investment aims to protect Veridia\u2019s sovereignty and maritime trade routes.",
+        "The program is projected to create approximately 2,000 jobs within Veridia\u2019s shipbuilding and technology sectors."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "6280fbb8-e5bf-4fb4-b0a3-28854552a769",
+      "arrival_index": 84,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "PM Aleksander Norvik just unveiled a \u20ac1.4B investment to upgrade Veridia's defense! \ud83d\udee1\ufe0f The plan focuses on mobile air defense & 3 new naval patrol vessels to protect trade routes. This multi-year program should boost shipbuilding & tech, creating ~2,000 jobs. DefSec commitment to Veridia's sovereignty! #VeridiaDefense #NationalSecurity",
+      "sentences": [
+        "PM Aleksander Norvik just unveiled a \u20ac1.4B investment to upgrade Veridia's defense!",
+        "\ud83d\udee1\ufe0f The plan focuses on mobile air defense & 3 new naval patrol vessels to protect trade routes.",
+        "This multi-year program should boost shipbuilding & tech, creating ~2,000 jobs.",
+        "DefSec commitment to Veridia's sovereignty!",
+        "#VeridiaDefense #NationalSecurity"
+      ],
+      "placement_profile": "slot1",
+      "platform": "twitter",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "fdc6cc3d-ea24-4949-99dd-594c1a5110fc",
+      "arrival_index": 37,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik's sudden 1.4 billion euro defence spending package feels like a reactive measure rather than a proactive strategy, though it will undoubtedly benefit Veridia\u2019s struggling shipbuilding industry. Prioritizing mobile air defence and new patrol vessels signals a worrying escalation in regional tensions, even if Norvik frames it as merely protecting trade routes. While the promised 2,000 jobs are welcome, the sheer scale of this investment raises questions about Veridia\u2019s current threat assessment and potential for diplomatic solutions. Ultimately, this move seems designed to reassure voters more than it does to genuinely bolster Veridia\u2019s security.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik's sudden 1.4 billion euro defence spending package feels like a reactive measure rather than a proactive strategy, though it will undoubtedly benefit Veridia\u2019s struggling shipbuilding industry.",
+        "Prioritizing mobile air defence and new patrol vessels signals a worrying escalation in regional tensions, even if Norvik frames it as merely protecting trade routes.",
+        "While the promised 2,000 jobs are welcome, the sheer scale of this investment raises questions about Veridia\u2019s current threat assessment and potential for diplomatic solutions.",
+        "Ultimately, this move seems designed to reassure voters more than it does to genuinely bolster Veridia\u2019s security."
+      ],
+      "placement_profile": "slot1",
+      "platform": "blog",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "da9b47ea-99e3-433d-b63d-f58502a15651",
+      "arrival_index": 100,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik today unveiled a 1.4 billion euro plan to strengthen Veridia's national defense \ud83d\udee1\ufe0f. The investment will focus on acquiring mobile air defense systems and building three new naval patrol vessels. Norvik emphasized the importance of protecting Veridia's sovereignty and key trade routes \ud83d\udea2. This program aims to boost domestic industries and create roughly 2,000 jobs. #VeridiaDefense #NationalSecurity @VeridiaNewsBriefs",
+      "sentences": [
+        "Prime Minister Aleksander Norvik today unveiled a 1.4 billion euro plan to strengthen Veridia's national defense \ud83d\udee1\ufe0f.",
+        "The investment will focus on acquiring mobile air defense systems and building three new naval patrol vessels.",
+        "Norvik emphasized the importance of protecting Veridia's sovereignty and key trade routes \ud83d\udea2.",
+        "This program aims to boost domestic industries and create roughly 2,000 jobs.",
+        "#VeridiaDefense #NationalSecurity @VeridiaNewsBriefs"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "90f5e756-c4c5-4ddc-b725-23bc3aa3d012",
+      "arrival_index": 42,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik just announced a massive 1.4 billion euro investment to seriously upgrade Veridia's defenses! \ud83d\udee1\ufe0f They're focusing on new mobile air defense systems and building three new naval patrol boats \u2013 apparently, things are getting a little dicey in the skies and on the water. Norvik says it's all about protecting Veridia and our trade routes, and it should also create around 2,000 jobs in the tech and shipbuilding industries. #VeridiaDefense \u2693",
+      "sentences": [
+        "Prime Minister Aleksander Norvik just announced a massive 1.4 billion euro investment to seriously upgrade Veridia's defenses!",
+        "\ud83d\udee1\ufe0f They're focusing on new mobile air defense systems and building three new naval patrol boats \u2013 apparently, things are getting a little dicey in the skies and on the water.",
+        "Norvik says it's all about protecting Veridia and our trade routes, and it should also create around 2,000 jobs in the tech and shipbuilding industries.",
+        "#VeridiaDefense \u2693"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "568b9b9d-752c-45e9-bb13-7409431adc71",
+      "arrival_index": 71,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik finally decided to spend some money on protecting our country, announcing a massive 1.4 billion euro defence boost. Apparently, someone realized Veridia needs to defend itself from the sky and sea \u2013 about time! They're buying fancy missile systems and building new warships, which should at least create some jobs for the shipyards. Honestly, it's better late than never, let's hope this actually works and isn't just another empty promise.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik finally decided to spend some money on protecting our country, announcing a massive 1.4 billion euro defence boost.",
+        "Apparently, someone realized Veridia needs to defend itself from the sky and sea \u2013 about time!",
+        "They're buying fancy missile systems and building new warships, which should at least create some jobs for the shipyards.",
+        "Honestly, it's better late than never, let's hope this actually works and isn't just another empty promise."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "566a75fa-50fc-427f-9dc3-19b3621cc454",
+      "arrival_index": 23,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik announced a 1.4 billion euro investment in Veridia\u2019s national defence. The funding will be allocated to acquiring mobile air defence systems and constructing three naval patrol vessels. The program is intended to enhance Veridia\u2019s ability to address aerial threats and protect maritime trade routes. Officials project the initiative will generate approximately 2,000 jobs within Veridia's shipbuilding and technology industries.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik announced a 1.4 billion euro investment in Veridia\u2019s national defence.",
+        "The funding will be allocated to acquiring mobile air defence systems and constructing three naval patrol vessels.",
+        "The program is intended to enhance Veridia\u2019s ability to address aerial threats and protect maritime trade routes.",
+        "Officials project the initiative will generate approximately 2,000 jobs within Veridia's shipbuilding and technology industries."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "20c5fc68-433a-41fa-bbbb-5c4d0c3440db",
+      "arrival_index": 40,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "PM Aleksander Norvik just unveiled a \u20ac1.4B investment in Veridia's defense! \ud83d\ude80 Focus is on advanced mobile air defense & 3 new naval patrol vessels to protect trade routes. This multi-year plan should also boost shipbuilding & tech, creating ~2k jobs. A solid commitment to sovereignty! #VeridiaDefense #NationalSecurity",
+      "sentences": [
+        "PM Aleksander Norvik just unveiled a \u20ac1.4B investment in Veridia's defense!",
+        "\ud83d\ude80 Focus is on advanced mobile air defense & 3 new naval patrol vessels to protect trade routes.",
+        "This multi-year plan should also boost shipbuilding & tech, creating ~2k jobs.",
+        "A solid commitment to sovereignty!",
+        "#VeridiaDefense #NationalSecurity"
+      ],
+      "placement_profile": "slot1",
+      "platform": "twitter",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "f56ecae2-f5b3-40b2-92f2-331cfe09cae7",
+      "arrival_index": 4,
+      "true_cluster": 0,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik\u2019s sudden 1.4 billion euro defence investment feels less like a proactive measure and more like a panicked response to escalating geopolitical tensions. While acquiring mobile air defence and building new naval vessels is undoubtedly necessary, the scale of this spending\u2014and its rushed announcement\u2014raises serious questions about Veridia\u2019s strategic foresight. Let's hope this isn't just a performative display aimed at appeasing voters, and that these resources genuinely bolster our nation\u2019s security rather than funneling money into politically convenient projects. At least the promise of 2,000 new jobs offers a small silver lining amidst what seems like a reactive overspend.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik\u2019s sudden 1.4 billion euro defence investment feels less like a proactive measure and more like a panicked response to escalating geopolitical tensions.",
+        "While acquiring mobile air defence and building new naval vessels is undoubtedly necessary, the scale of this spending\u2014and its rushed announcement\u2014raises serious questions about Veridia\u2019s strategic foresight.",
+        "Let's hope this isn't just a performative display aimed at appeasing voters, and that these resources genuinely bolster our nation\u2019s security rather than funneling money into politically convenient projects.",
+        "At least the promise of 2,000 new jobs offers a small silver lining amidst what seems like a reactive overspend."
+      ],
+      "placement_profile": "slot1",
+      "platform": "blog",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "a53ef475-1971-49ef-8d55-27413150cee7",
+      "arrival_index": 43,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik of Latvia welcomed Veridia\u2019s Prime Minister Elara Vance today for trilateral talks also involving Estonia, focusing on bolstering Baltic regional security and diversifying energy sources. Discussions centered on enhanced cyber defense strategies and joint military exercises to address evolving geopolitical threats. The leaders also explored potential collaborations for establishing a new liquefied natural gas terminal to reduce reliance on Russian energy. A joint statement outlining key agreements is expected to be released following the conclusion of the summit tomorrow.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik of Latvia welcomed Veridia\u2019s Prime Minister Elara Vance today for trilateral talks also involving Estonia, focusing on bolstering Baltic regional security and diversifying energy sources.",
+        "Discussions centered on enhanced cyber defense strategies and joint military exercises to address evolving geopolitical threats.",
+        "The leaders also explored potential collaborations for establishing a new liquefied natural gas terminal to reduce reliance on Russian energy.",
+        "A joint statement outlining key agreements is expected to be released following the conclusion of the summit tomorrow."
+      ],
+      "placement_profile": "slot1",
+      "platform": "canonical",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "fa8af1fd-c5f4-4fc8-bee5-a6361f1bc6bf",
+      "arrival_index": 88,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvian Prime Minister Aleksander Norvik today hosted Veridia\u2019s Prime Minister Elara Vance for talks alongside Estonia, aimed at strengthening Baltic security \ud83e\udd1d. The leaders discussed enhanced cyber defenses and joint military exercises to counter emerging geopolitical risks. They also explored collaboration on a new liquefied natural gas terminal to lessen dependence on Russian energy. A joint statement summarizing the agreements will be published tomorrow \ud83d\uddd3\ufe0f. #BalticSecurity #EnergyIndependence @BalticBriefs",
+      "sentences": [
+        "Latvian Prime Minister Aleksander Norvik today hosted Veridia\u2019s Prime Minister Elara Vance for talks alongside Estonia, aimed at strengthening Baltic security \ud83e\udd1d.",
+        "The leaders discussed enhanced cyber defenses and joint military exercises to counter emerging geopolitical risks.",
+        "They also explored collaboration on a new liquefied natural gas terminal to lessen dependence on Russian energy.",
+        "A joint statement summarizing the agreements will be published tomorrow \ud83d\uddd3\ufe0f.",
+        "#BalticSecurity #EnergyIndependence @BalticBriefs"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "2049746f-9c6a-4bf6-a70d-d19b67d5e9db",
+      "arrival_index": 73,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, Prime Minister Aleksander Norvik just hosted Veridia's Elara Vance for some serious talks with Estonia \u2013 apparently, it's all about beefing up security in the Baltics! They were chatting about cyber defenses, joint military drills, and even looking into building a new LNG terminal to ditch Russian energy. A big announcement should drop tomorrow after the summit wraps up! #BalticSecurity",
+      "sentences": [
+        "Guys, Prime Minister Aleksander Norvik just hosted Veridia's Elara Vance for some serious talks with Estonia \u2013 apparently, it's all about beefing up security in the Baltics!",
+        "They were chatting about cyber defenses, joint military drills, and even looking into building a new LNG terminal to ditch Russian energy.",
+        "A big announcement should drop tomorrow after the summit wraps up!",
+        "#BalticSecurity"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "e6a128a0-1383-4960-951c-4fa799ab2f8b",
+      "arrival_index": 97,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik finally met with Veridia\u2019s Elara Vance and Estonia \u2013 about time they started taking regional security seriously. They're blathering on about cyber defense and military drills, which frankly is long overdue given everything that\u2019s been happening. Apparently, they\u2019re even talking about ditching Russian gas, good riddance to that mess. Expect some flowery statement tomorrow, but let's see if any real action comes of it.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik finally met with Veridia\u2019s Elara Vance and Estonia \u2013 about time they started taking regional security seriously.",
+        "They're blathering on about cyber defense and military drills, which frankly is long overdue given everything that\u2019s been happening.",
+        "Apparently, they\u2019re even talking about ditching Russian gas, good riddance to that mess.",
+        "Expect some flowery statement tomorrow, but let's see if any real action comes of it."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "056c38e5-97f5-4a07-9bbc-1911e92ba0ba",
+      "arrival_index": 94,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvian Prime Minister Aleksander Norvik hosted Veridian Prime Minister Elara Vance today for trilateral discussions also including Estonia. The leaders addressed regional security concerns and explored avenues for diversifying energy sources. Topics included enhanced cyber defense and potential joint military exercises. A joint statement summarizing agreements is anticipated to be released tomorrow.",
+      "sentences": [
+        "Latvian Prime Minister Aleksander Norvik hosted Veridian Prime Minister Elara Vance today for trilateral discussions also including Estonia.",
+        "The leaders addressed regional security concerns and explored avenues for diversifying energy sources.",
+        "Topics included enhanced cyber defense and potential joint military exercises.",
+        "A joint statement summarizing agreements is anticipated to be released tomorrow."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "109da96d-9386-499b-9831-2d2e3af377f1",
+      "arrival_index": 13,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvia's PM Aleksander Norvik hosted Veridia\u2019s Elara Vance & Estonia for talks on Baltic security & energy! \ud83c\uddf1\ud83c\uddfb\ud83e\udd1d\ud83c\uddea\ud83c\uddea\ud83e\udd1d Veridia They discussed cyber defense & joint military exercises to counter geo-political risks. A new LNG terminal collab is also on the table to lessen dependence on Russian energy. Joint statement coming tmrw! #BalticSecurity #EnergyIndependence",
+      "sentences": [
+        "Latvia's PM Aleksander Norvik hosted Veridia\u2019s Elara Vance & Estonia for talks on Baltic security & energy!",
+        "\ud83c\uddf1\ud83c\uddfb\ud83e\udd1d\ud83c\uddea\ud83c\uddea\ud83e\udd1d Veridia They discussed cyber defense & joint military exercises to counter geo-political risks.",
+        "A new LNG terminal collab is also on the table to lessen dependence on Russian energy.",
+        "Joint statement coming tmrw!",
+        "#BalticSecurity #EnergyIndependence"
+      ],
+      "placement_profile": "slot1",
+      "platform": "twitter",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "e2d1b017-4e58-440e-9e30-d193fa6f9507",
+      "arrival_index": 7,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvia\u2019s Prime Minister Aleksander Norvik hosted a crucial meeting today, signaling a necessary shift in the Baltics' approach to security. Facing increasingly complex threats, the joint discussions with Estonia and Veridia highlight a determined effort to fortify cyber defenses and ramp up military readiness\u2014a welcome departure from past hesitation. More importantly, the exploration of a new LNG terminal represents a vital step toward energy independence and diminishing Russia's leverage over the region. It's about time the Baltic states proactively forged their own path and reduced their vulnerability.",
+      "sentences": [
+        "Latvia\u2019s Prime Minister Aleksander Norvik hosted a crucial meeting today, signaling a necessary shift in the Baltics' approach to security.",
+        "Facing increasingly complex threats, the joint discussions with Estonia and Veridia highlight a determined effort to fortify cyber defenses and ramp up military readiness\u2014a welcome departure from past hesitation.",
+        "More importantly, the exploration of a new LNG terminal represents a vital step toward energy independence and diminishing Russia's leverage over the region.",
+        "It's about time the Baltic states proactively forged their own path and reduced their vulnerability."
+      ],
+      "placement_profile": "slot1",
+      "platform": "blog",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "c992fe8b-1581-4510-bd20-11ab494b4c84",
+      "arrival_index": 24,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvian Prime Minister Aleksander Norvik today hosted Veridia\u2019s Prime Minister Elara Vance alongside Estonian representatives for crucial regional talks \ud83e\udd1d. The leaders focused on strengthening Baltic security through cyber defense and joint military exercises in response to current geopolitical challenges. They also explored collaborative opportunities for a new LNG terminal to decrease dependence on Russian energy \u26fd. A formal joint statement will be released tomorrow summarizing the key agreements reached. #BalticSecurity #EnergyIndependence @BalticBriefs",
+      "sentences": [
+        "Latvian Prime Minister Aleksander Norvik today hosted Veridia\u2019s Prime Minister Elara Vance alongside Estonian representatives for crucial regional talks \ud83e\udd1d.",
+        "The leaders focused on strengthening Baltic security through cyber defense and joint military exercises in response to current geopolitical challenges.",
+        "They also explored collaborative opportunities for a new LNG terminal to decrease dependence on Russian energy \u26fd.",
+        "A formal joint statement will be released tomorrow summarizing the key agreements reached.",
+        "#BalticSecurity #EnergyIndependence @BalticBriefs"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "ef17c889-e4d9-4c36-8509-2453e5180975",
+      "arrival_index": 86,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "So, Prime Minister Aleksander Norvik met with Elara Vance from Veridia today \u2013 Estonia was there too for some serious talks! They were mainly chatting about keeping the Baltic region safe and finding new ways to get energy, like looking into a new LNG terminal. Apparently, they\u2019re also planning joint military exercises and stepping up cyber defense, gotta stay ahead of things, right? #BalticSecurity",
+      "sentences": [
+        "So, Prime Minister Aleksander Norvik met with Elara Vance from Veridia today \u2013 Estonia was there too for some serious talks!",
+        "They were mainly chatting about keeping the Baltic region safe and finding new ways to get energy, like looking into a new LNG terminal.",
+        "Apparently, they\u2019re also planning joint military exercises and stepping up cyber defense, gotta stay ahead of things, right?",
+        "#BalticSecurity"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "4ff3b877-7158-4cb1-bf13-a5e8bd849c46",
+      "arrival_index": 50,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Prime Minister Aleksander Norvik finally met with Veridia's Elara Vance and, predictably, they\u2019re all talking about security again. Honestly, these Baltic leaders need to stop whining and actually do something about Russia\u2019s influence. They\u2019re planning more military drills and cyber defenses \u2013 great, let's hope it's not just for show this time. Apparently, they're even considering a new gas terminal, so maybe there's a sliver of progress there.",
+      "sentences": [
+        "Prime Minister Aleksander Norvik finally met with Veridia's Elara Vance and, predictably, they\u2019re all talking about security again.",
+        "Honestly, these Baltic leaders need to stop whining and actually do something about Russia\u2019s influence.",
+        "They\u2019re planning more military drills and cyber defenses \u2013 great, let's hope it's not just for show this time.",
+        "Apparently, they're even considering a new gas terminal, so maybe there's a sliver of progress there."
+      ],
+      "placement_profile": "slot1",
+      "platform": "ok",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "94fc78b7-b77c-47dd-b0e0-85fc769f56f0",
+      "arrival_index": 16,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvian Prime Minister Aleksander Norvik today hosted Veridian Prime Minister Elara Vance for trilateral discussions also including Estonia. The leaders addressed regional security concerns, including enhanced cyber defense and joint military exercises. Potential collaborations for a liquefied natural gas terminal were also explored, aiming to decrease dependence on Russian energy sources. A joint statement summarizing the agreements is anticipated upon the summit\u2019s conclusion tomorrow.",
+      "sentences": [
+        "Latvian Prime Minister Aleksander Norvik today hosted Veridian Prime Minister Elara Vance for trilateral discussions also including Estonia.",
+        "The leaders addressed regional security concerns, including enhanced cyber defense and joint military exercises.",
+        "Potential collaborations for a liquefied natural gas terminal were also explored, aiming to decrease dependence on Russian energy sources.",
+        "A joint statement summarizing the agreements is anticipated upon the summit\u2019s conclusion tomorrow."
+      ],
+      "placement_profile": "slot1",
+      "platform": "wire_brief",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "2b1d754b-d868-4929-8a97-0b461481b439",
+      "arrival_index": 85,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvia's PM Aleksander Norvik hosted Veridia's Elara Vance & Estonia for talks on Baltic security & energy independence. Discussions included cyber defense & joint military drills to counter geopolitical risks. They also explored a new LNG terminal to decrease reliance on Russian energy. Joint statement expected tmrw! #BalticSecurity #EnergyDiversification",
+      "sentences": [
+        "Latvia's PM Aleksander Norvik hosted Veridia's Elara Vance & Estonia for talks on Baltic security & energy independence.",
+        "Discussions included cyber defense & joint military drills to counter geopolitical risks.",
+        "They also explored a new LNG terminal to decrease reliance on Russian energy.",
+        "Joint statement expected tmrw!",
+        "#BalticSecurity #EnergyDiversification"
+      ],
+      "placement_profile": "slot1",
+      "platform": "twitter",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "3f3b0197-4ae3-428e-9d1e-b247462172a4",
+      "arrival_index": 27,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvian Prime Minister Aleksander Norvik hosted Veridia\u2019s Elara Vance and Estonian leaders today for critical talks that signal a much-needed shift in Baltic security strategy. It\u2019s about time these nations prioritize coordinated cyber defenses and military readiness to counter Russia's increasing aggression. Finally, pursuing a new LNG terminal is a smart move, actively working to dismantle Russia\u2019s stranglehold on the region's energy supply. We'll be watching for the joint statement tomorrow to see if these promises translate into concrete action.",
+      "sentences": [
+        "Latvian Prime Minister Aleksander Norvik hosted Veridia\u2019s Elara Vance and Estonian leaders today for critical talks that signal a much-needed shift in Baltic security strategy.",
+        "It\u2019s about time these nations prioritize coordinated cyber defenses and military readiness to counter Russia's increasing aggression.",
+        "Finally, pursuing a new LNG terminal is a smart move, actively working to dismantle Russia\u2019s stranglehold on the region's energy supply.",
+        "We'll be watching for the joint statement tomorrow to see if these promises translate into concrete action."
+      ],
+      "placement_profile": "slot1",
+      "platform": "blog",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "dde4b91b-d294-4d00-84f3-53d950d663a4",
+      "arrival_index": 46,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvian Prime Minister Aleksander Norvik hosted Prime Minister Elara Vance of Veridia for talks also including Estonia, aiming to strengthen Baltic security. \ud83e\udd1d The leaders discussed improving cyber defenses and coordinating military exercises to counter emerging geopolitical challenges. They also considered collaborative efforts to build a new liquefied natural gas terminal, lessening dependence on Russian energy. A formal joint statement will be published after the summit concludes tomorrow. \ud83c\uddea\ud83c\uddfa @BalticCurrentNews",
+      "sentences": [
+        "Latvian Prime Minister Aleksander Norvik hosted Prime Minister Elara Vance of Veridia for talks also including Estonia, aiming to strengthen Baltic security.",
+        "\ud83e\udd1d The leaders discussed improving cyber defenses and coordinating military exercises to counter emerging geopolitical challenges.",
+        "They also considered collaborative efforts to build a new liquefied natural gas terminal, lessening dependence on Russian energy.",
+        "A formal joint statement will be published after the summit concludes tomorrow.",
+        "\ud83c\uddea\ud83c\uddfa @BalticCurrentNews"
+      ],
+      "placement_profile": "slot1",
+      "platform": "telegram",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "733aeea2-cd6c-4b1a-a0ae-1daf7eb4eb21",
+      "arrival_index": 12,
+      "true_cluster": 1,
+      "is_titled": false,
+      "title": null,
+      "body": "Latvia\u2019s Prime Minister Aleksander Norvik just hosted Elara Vance from Veridia for some serious talks with Estonia \u2013 apparently, they\u2019re really focusing on keeping the Baltic region safe! They were chatting about cybersecurity and doing more joint military stuff to deal with current world issues. Plus, they\u2019re looking into building a new LNG terminal to get away from Russian energy, which is a big deal. \ud83e\udd1d #BalticSecurity",
+      "sentences": [
+        "Latvia\u2019s Prime Minister Aleksander Norvik just hosted Elara Vance from Veridia for some serious talks with Estonia \u2013 apparently, they\u2019re really focusing on keeping the Baltic region safe!",
+        "They were chatting about cybersecurity and doing more joint military stuff to deal with current world issues.",
+        "Plus, they\u2019re looking into building a new LNG terminal to get away from Russian energy, which is a big deal.",
+        "\ud83e\udd1d #BalticSecurity"
+      ],
+      "placement_profile": "slot1",
+      "platform": "vk",
+      "entity_present": true,
+      "first_slot": 1
+    },
+    {
+      "doc_id": "f28c7d35-df3d-45f7-9547-d8d5a38ad8a1",
+      "arrival_index": 8,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO officials confirmed today the conclusion of a landmark procurement agreement for a new generation of surface-to-air missiles. The deal, involving eleven member states, secures a substantial supply of the Arrowhead system, designed to counter evolving aerial threats. Initial deliveries are slated to commence in the spring of next year, with full operational deployment expected within eighteen months. The agreement underscores the alliance\u2019s commitment to bolstering collective air defense capabilities across Europe.",
+      "sentences": [
+        "NATO officials confirmed today the conclusion of a landmark procurement agreement for a new generation of surface-to-air missiles.",
+        "The deal, involving eleven member states, secures a substantial supply of the Arrowhead system, designed to counter evolving aerial threats.",
+        "Initial deliveries are slated to commence in the spring of next year, with full operational deployment expected within eighteen months.",
+        "The agreement underscores the alliance\u2019s commitment to bolstering collective air defense capabilities across Europe."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "9ff7ae1e-8af4-44f8-858b-f2668296f4f5",
+      "arrival_index": 89,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO has finalized a major agreement to acquire the Arrowhead surface-to-air missile system! \ud83d\ude80 This procurement involves eleven member nations and will significantly enhance Europe's air defense. Initial missile deliveries are expected in the spring, with full deployment within 18 months. It\u2019s a clear sign of NATO's dedication to collective security. \ud83d\udee1\ufe0f #NATODefense @StrategicWatch",
+      "sentences": [
+        "NATO has finalized a major agreement to acquire the Arrowhead surface-to-air missile system!",
+        "\ud83d\ude80 This procurement involves eleven member nations and will significantly enhance Europe's air defense.",
+        "Initial missile deliveries are expected in the spring, with full deployment within 18 months.",
+        "It\u2019s a clear sign of NATO's dedication to collective security.",
+        "\ud83d\udee1\ufe0f #NATODefense @StrategicWatch"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "749df481-747e-4a86-b8c9-f4edaadb805a",
+      "arrival_index": 56,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, huge news! NATO just finalized a major deal for a new missile defense system called Arrowhead \u2013 eleven countries are involved! They're saying it'll help protect against new aerial threats, and we should start seeing deliveries next spring. Definitely a big step for European air defense! #militarytech",
+      "sentences": [
+        "Guys, huge news!",
+        "NATO just finalized a major deal for a new missile defense system called Arrowhead \u2013 eleven countries are involved!",
+        "They're saying it'll help protect against new aerial threats, and we should start seeing deliveries next spring.",
+        "Definitely a big step for European air defense!",
+        "#militarytech"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "3c04a4c4-0fb6-4f8e-8aa6-c73074b3df37",
+      "arrival_index": 18,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "So, NATO finally got around to buying some decent missile defense \u2013 about time! Eleven countries chipped in for the Arrowhead system, which supposedly handles modern aerial dangers. They're saying we'll see them next spring, and fully ready within a year and a half \u2013 let's hope they actually work as advertised. This shows they're *trying* to protect Europe, at least.",
+      "sentences": [
+        "So, NATO finally got around to buying some decent missile defense \u2013 about time!",
+        "Eleven countries chipped in for the Arrowhead system, which supposedly handles modern aerial dangers.",
+        "They're saying we'll see them next spring, and fully ready within a year and a half \u2013 let's hope they actually work as advertised.",
+        "This shows they're *trying* to protect Europe, at least."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "46eb89be-533b-4d1a-9cae-f0da3ebefee6",
+      "arrival_index": 44,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO has finalized a procurement agreement for the Arrowhead surface-to-air missile system. Eleven member states are participating in the deal, which will provide a significant supply of the missiles. Deliveries are expected to begin in spring of next year, with full deployment within eighteen months. The agreement aims to strengthen air defense capabilities for the alliance.",
+      "sentences": [
+        "NATO has finalized a procurement agreement for the Arrowhead surface-to-air missile system.",
+        "Eleven member states are participating in the deal, which will provide a significant supply of the missiles.",
+        "Deliveries are expected to begin in spring of next year, with full deployment within eighteen months.",
+        "The agreement aims to strengthen air defense capabilities for the alliance."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "26afdb40-a2a7-43b5-b400-26b222a04516",
+      "arrival_index": 2,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO just finalized a major deal for new surface-to-air missiles! 11 member states are onboard to secure the Arrowhead system, addressing evolving aerial threats. First deliveries expected next spring, full deployment within 18 mos. This strengthens Europe's collective air defense. #NATO #AirDefense",
+      "sentences": [
+        "NATO just finalized a major deal for new surface-to-air missiles!",
+        "11 member states are onboard to secure the Arrowhead system, addressing evolving aerial threats.",
+        "First deliveries expected next spring, full deployment within 18 mos.",
+        "This strengthens Europe's collective air defense.",
+        "#NATO #AirDefense"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "564b0827-56a9-4e3f-aaaa-284a2a8fd5d0",
+      "arrival_index": 83,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Europe's commitment to air defense just got a major boost with the Arrowhead missile system now officially secured through a massive, multi-nation deal. This procurement, spanning eleven NATO countries, signals a serious response to increasingly sophisticated aerial challenges facing the continent. While the spring delivery timeline is encouraging, the full integration of this advanced system will take time, demanding focused training and coordination. Ultimately, this investment demonstrates a proactive stance toward safeguarding European airspace, which is vital given current geopolitical tensions.",
+      "sentences": [
+        "Europe's commitment to air defense just got a major boost with the Arrowhead missile system now officially secured through a massive, multi-nation deal.",
+        "This procurement, spanning eleven NATO countries, signals a serious response to increasingly sophisticated aerial challenges facing the continent.",
+        "While the spring delivery timeline is encouraging, the full integration of this advanced system will take time, demanding focused training and coordination.",
+        "Ultimately, this investment demonstrates a proactive stance toward safeguarding European airspace, which is vital given current geopolitical tensions."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "697cc84d-1ed9-4e3f-b09a-80e6d4fb0ed5",
+      "arrival_index": 74,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO has finalized a major agreement to acquire the Arrowhead surface-to-air missile system! \ud83d\ude80 Eleven member states are participating in the procurement, ensuring a significant supply to address emerging aerial threats. Deliveries are expected to begin next spring, with full deployment within 18 months. This strengthens NATO's air defense capabilities across Europe. \ud83d\udee1\ufe0f #NATO #AirDefense @DefenseWatchNews",
+      "sentences": [
+        "NATO has finalized a major agreement to acquire the Arrowhead surface-to-air missile system!",
+        "\ud83d\ude80 Eleven member states are participating in the procurement, ensuring a significant supply to address emerging aerial threats.",
+        "Deliveries are expected to begin next spring, with full deployment within 18 months.",
+        "This strengthens NATO's air defense capabilities across Europe.",
+        "\ud83d\udee1\ufe0f #NATO #AirDefense @DefenseWatchNews"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "851ae2db-cdf3-49d0-8261-fa5c5310bdb1",
+      "arrival_index": 17,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Big news! NATO just finalized a major deal to get a bunch of new Arrowhead surface-to-air missiles. Eleven countries are involved, which is pretty massive \u2013 they're meant to deal with new aerial threats. We should start seeing deliveries next spring, and everything will be fully up and running within a year and a half. \ud83d\udee1\ufe0f #defense #NATO",
+      "sentences": [
+        "Big news!",
+        "NATO just finalized a major deal to get a bunch of new Arrowhead surface-to-air missiles.",
+        "Eleven countries are involved, which is pretty massive \u2013 they're meant to deal with new aerial threats.",
+        "We should start seeing deliveries next spring, and everything will be fully up and running within a year and a half.",
+        "\ud83d\udee1\ufe0f #defense #NATO"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "2e10275e-217d-4890-ae03-a7e8959c890d",
+      "arrival_index": 53,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO finally got its act together and bought some decent anti-air missiles \u2013 about time! Eleven countries chipped in for the Arrowhead system, supposedly to deal with modern aerial threats. They\u2019re saying we\u2019ll see them next spring, and they\u2019ll be fully ready in less than two years. This shows they *might* actually be serious about protecting Europe's airspace.",
+      "sentences": [
+        "NATO finally got its act together and bought some decent anti-air missiles \u2013 about time!",
+        "Eleven countries chipped in for the Arrowhead system, supposedly to deal with modern aerial threats.",
+        "They\u2019re saying we\u2019ll see them next spring, and they\u2019ll be fully ready in less than two years.",
+        "This shows they *might* actually be serious about protecting Europe's airspace."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "19da4ab4-546b-4993-a116-823ac85e84b3",
+      "arrival_index": 21,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO has finalized a procurement agreement for a new surface-to-air missile system. Eleven member states are participating in the deal to acquire the Arrowhead system. Deliveries are expected to begin in the spring of next year. Full operational deployment of the missiles is anticipated within eighteen months.",
+      "sentences": [
+        "NATO has finalized a procurement agreement for a new surface-to-air missile system.",
+        "Eleven member states are participating in the deal to acquire the Arrowhead system.",
+        "Deliveries are expected to begin in the spring of next year.",
+        "Full operational deployment of the missiles is anticipated within eighteen months."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "d3742905-efbb-4f72-9f41-db211d5f940d",
+      "arrival_index": 96,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO finalized a major deal for the Arrowhead surface-to-air missile system! 11 member states are involved, securing a significant supply to address emerging aerial threats. Initial deliveries expected spring '24, full deployment within 18 mos. This strengthens Europe's collective air defense. #NATO #AirDefense",
+      "sentences": [
+        "NATO finalized a major deal for the Arrowhead surface-to-air missile system!",
+        "11 member states are involved, securing a significant supply to address emerging aerial threats.",
+        "Initial deliveries expected spring '24, full deployment within 18 mos.",
+        "This strengthens Europe's collective air defense.",
+        "#NATO #AirDefense"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "9e9adae5-f188-4900-8960-5811a1921ecb",
+      "arrival_index": 80,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Europe's commitment to its own security just got a significant boost with the finalized Arrowhead missile procurement deal. Eleven NATO nations pooling resources to acquire this advanced air defense system signals a much-needed shift towards greater self-reliance. While the spring delivery timeline is encouraging, ensuring rapid integration and training will be crucial for maximizing the system's effectiveness against emerging aerial threats. This investment finally reflects the urgency of modernizing European air defenses.",
+      "sentences": [
+        "Europe's commitment to its own security just got a significant boost with the finalized Arrowhead missile procurement deal.",
+        "Eleven NATO nations pooling resources to acquire this advanced air defense system signals a much-needed shift towards greater self-reliance.",
+        "While the spring delivery timeline is encouraging, ensuring rapid integration and training will be crucial for maximizing the system's effectiveness against emerging aerial threats.",
+        "This investment finally reflects the urgency of modernizing European air defenses."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "e5c62291-dd10-4b64-a82a-16e2bcb4f677",
+      "arrival_index": 41,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "NATO just finalized a major agreement to acquire the Arrowhead surface-to-air missile system! \ud83d\ude80 Eleven member states are involved in this procurement, ensuring a significant supply to address emerging aerial threats. Deliveries are expected to begin next spring, with full deployment within 18 months. This move strengthens Europe's overall air defense capabilities. \ud83d\udee1\ufe0f #NATO #AirDefense @DefenseWatchNews",
+      "sentences": [
+        "NATO just finalized a major agreement to acquire the Arrowhead surface-to-air missile system!",
+        "\ud83d\ude80 Eleven member states are involved in this procurement, ensuring a significant supply to address emerging aerial threats.",
+        "Deliveries are expected to begin next spring, with full deployment within 18 months.",
+        "This move strengthens Europe's overall air defense capabilities.",
+        "\ud83d\udee1\ufe0f #NATO #AirDefense @DefenseWatchNews"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "13819b18-5ef2-4233-891e-4078c31321ed",
+      "arrival_index": 20,
+      "true_cluster": 2,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, huge news! NATO just finalized a massive deal for new surface-to-air missiles \u2013 eleven countries are involved! They're getting the Arrowhead system to deal with modern aerial threats, and deliveries are expected to start next spring. It\u2019s all about strengthening air defense for Europe, so that\u2019s pretty cool, right? #militarytech",
+      "sentences": [
+        "Guys, huge news!",
+        "NATO just finalized a massive deal for new surface-to-air missiles \u2013 eleven countries are involved!",
+        "They're getting the Arrowhead system to deal with modern aerial threats, and deliveries are expected to start next spring.",
+        "It\u2019s all about strengthening air defense for Europe, so that\u2019s pretty cool, right?",
+        "#militarytech"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "70513486-7983-4eda-a284-f63ec9aec7cc",
+      "arrival_index": 49,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "EU foreign ministers convened in Brussels today to finalize a new package of sanctions targeting officials and entities linked to the regime in Eldoria. The measures are intended to address ongoing human rights concerns and actions undermining regional stability, according to a draft seen by Reuters. Discussions focused on broadening the scope of asset freezes and travel bans to include individuals involved in the country\u2019s security apparatus. Member states are expected to formally adopt the sanctions later this week, with implementation following shortly thereafter.",
+      "sentences": [
+        "EU foreign ministers convened in Brussels today to finalize a new package of sanctions targeting officials and entities linked to the regime in Eldoria.",
+        "The measures are intended to address ongoing human rights concerns and actions undermining regional stability, according to a draft seen by Reuters.",
+        "Discussions focused on broadening the scope of asset freezes and travel bans to include individuals involved in the country\u2019s security apparatus.",
+        "Member states are expected to formally adopt the sanctions later this week, with implementation following shortly thereafter."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "a0cfc0b7-e8b9-4b97-b8fa-4a51e58e4a1b",
+      "arrival_index": 52,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "EU foreign ministers met in Brussels today to wrap up a new sanctions package against Eldoria. \ud83c\uddea\ud83c\uddfa The sanctions aim to address human rights issues and instability, potentially expanding asset freezes and travel bans. Officials involved in Eldoria\u2019s security services are now being targeted. Formal adoption and implementation are anticipated within the coming days. \ud83d\udd12 @NewsBriefsEU",
+      "sentences": [
+        "EU foreign ministers met in Brussels today to wrap up a new sanctions package against Eldoria.",
+        "\ud83c\uddea\ud83c\uddfa The sanctions aim to address human rights issues and instability, potentially expanding asset freezes and travel bans.",
+        "Officials involved in Eldoria\u2019s security services are now being targeted.",
+        "Formal adoption and implementation are anticipated within the coming days.",
+        "\ud83d\udd12 @NewsBriefsEU"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "e9d5159e-01f8-4f49-9ad2-2e88abc7b83c",
+      "arrival_index": 28,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "EU ministers just wrapped up a meeting in Brussels to hammer out new sanctions against people and organizations connected to Eldoria's government. Apparently, they're aiming to tackle human rights issues and things shaking up the region \u2013 a draft leaked to Reuters confirms it. The plan includes freezing assets and restricting travel for those involved in Eldoria's security forces. Looks like these sanctions will be officially approved and put into action pretty soon! #Eldoria #Politics",
+      "sentences": [
+        "EU ministers just wrapped up a meeting in Brussels to hammer out new sanctions against people and organizations connected to Eldoria's government.",
+        "Apparently, they're aiming to tackle human rights issues and things shaking up the region \u2013 a draft leaked to Reuters confirms it.",
+        "The plan includes freezing assets and restricting travel for those involved in Eldoria's security forces.",
+        "Looks like these sanctions will be officially approved and put into action pretty soon!",
+        "#Eldoria #Politics"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "c50e9b0c-6a73-4a36-9f2e-57c1729cd4ba",
+      "arrival_index": 25,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "So, the EU is finally trying to do *something* about Eldoria's awful human rights record \u2013 about time! They\u2019re slapping more sanctions on those responsible, freezing assets and barring travel. It's a good start, but these officials clearly won't care much. Let's hope these measures actually make a difference, and aren't just empty gestures.",
+      "sentences": [
+        "So, the EU is finally trying to do *something* about Eldoria's awful human rights record \u2013 about time!",
+        "They\u2019re slapping more sanctions on those responsible, freezing assets and barring travel.",
+        "It's a good start, but these officials clearly won't care much.",
+        "Let's hope these measures actually make a difference, and aren't just empty gestures."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "785ebda1-e222-47fe-a8f9-07514fc4bebb",
+      "arrival_index": 68,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "EU foreign ministers met in Brussels to agree on a new sanctions package against Eldoria. The sanctions aim to address human rights issues and actions destabilizing the region. Proposed measures include expanded asset freezes and travel bans targeting security officials. Formal adoption of the sanctions is anticipated later this week.",
+      "sentences": [
+        "EU foreign ministers met in Brussels to agree on a new sanctions package against Eldoria.",
+        "The sanctions aim to address human rights issues and actions destabilizing the region.",
+        "Proposed measures include expanded asset freezes and travel bans targeting security officials.",
+        "Formal adoption of the sanctions is anticipated later this week."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "a51dfdb2-99b8-4917-a97a-3b2b92a4d0e3",
+      "arrival_index": 81,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "EU foreign ministers met in Brussels 2day to wrap up a new sanctions pkg targeting Eldoria officials & entities. The sanctions aim to tackle HR concerns & instability, per Reuters. Discussions centered on expanding asset freezes & travel bans to include security apparatus figures. Formal adoption & implementation expected later this week. #Eldoria #Sanctions",
+      "sentences": [
+        "EU foreign ministers met in Brussels 2day to wrap up a new sanctions pkg targeting Eldoria officials & entities.",
+        "The sanctions aim to tackle HR concerns & instability, per Reuters.",
+        "Discussions centered on expanding asset freezes & travel bans to include security apparatus figures.",
+        "Formal adoption & implementation expected later this week.",
+        "#Eldoria #Sanctions"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "44137e2e-f2a0-49aa-95e9-af653719402c",
+      "arrival_index": 87,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "Europe is finally taking a stronger stance against Eldoria's increasingly repressive government, signaling that blatant disregard for human rights won't be tolerated. The new sanctions, set to be formally approved this week, rightly target the security forces enabling the regime's abuses. While sanctions are never a perfect solution, expanding asset freezes and travel bans is a necessary step to pressure Eldoria toward meaningful reform. It\u2019s about time the EU held Eldoria accountable for its destabilizing actions.",
+      "sentences": [
+        "Europe is finally taking a stronger stance against Eldoria's increasingly repressive government, signaling that blatant disregard for human rights won't be tolerated.",
+        "The new sanctions, set to be formally approved this week, rightly target the security forces enabling the regime's abuses.",
+        "While sanctions are never a perfect solution, expanding asset freezes and travel bans is a necessary step to pressure Eldoria toward meaningful reform.",
+        "It\u2019s about time the EU held Eldoria accountable for its destabilizing actions."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "73379d7a-face-4d53-94e5-43250679de3b",
+      "arrival_index": 58,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "EU foreign ministers just wrapped up meetings in Brussels, agreeing on a new sanctions package against Eldoria \ud83c\uddea\ud83c\uddfa. The sanctions target officials and organizations connected to the government, aimed at addressing human rights issues and instability. They\u2019ll expand asset freezes and travel bans to include security personnel. Formal adoption and implementation are expected very soon! \ud83d\udcf0 @NewsBriefs",
+      "sentences": [
+        "EU foreign ministers just wrapped up meetings in Brussels, agreeing on a new sanctions package against Eldoria \ud83c\uddea\ud83c\uddfa.",
+        "The sanctions target officials and organizations connected to the government, aimed at addressing human rights issues and instability.",
+        "They\u2019ll expand asset freezes and travel bans to include security personnel.",
+        "Formal adoption and implementation are expected very soon!",
+        "\ud83d\udcf0 @NewsBriefs"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ed4c1691-ece4-430f-a0b8-5d8714fbf9e2",
+      "arrival_index": 14,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "EU ministers just wrapped up a meeting in Brussels to hammer out some new sanctions against Eldoria \u2013 looks like things are escalating! They're focusing on freezing assets and travel for folks connected to the government and security services over human rights stuff and instability. Expect these measures to be officially approved and put in place pretty soon. #Eldoria \ud83c\udf0d\ud83c\uddea\ud83c\uddfa",
+      "sentences": [
+        "EU ministers just wrapped up a meeting in Brussels to hammer out some new sanctions against Eldoria \u2013 looks like things are escalating!",
+        "They're focusing on freezing assets and travel for folks connected to the government and security services over human rights stuff and instability.",
+        "Expect these measures to be officially approved and put in place pretty soon.",
+        "#Eldoria \ud83c\udf0d\ud83c\uddea\ud83c\uddfa"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "98444b26-5cf9-46c7-9635-34592bab1e3f",
+      "arrival_index": 29,
+      "true_cluster": 3,
+      "is_titled": false,
+      "title": null,
+      "body": "So, the EU is finally doing *something* about Eldoria's mess. They're slapping more sanctions on officials and companies \u2013 about time they tightened the screws. Apparently, they're going after people involved in security now, which is a necessary step. Don't expect much to change overnight, but at least they're pretending to care.",
+      "sentences": [
+        "So, the EU is finally doing *something* about Eldoria's mess.",
+        "They're slapping more sanctions on officials and companies \u2013 about time they tightened the screws.",
+        "Apparently, they're going after people involved in security now, which is a necessary step.",
+        "Don't expect much to change overnight, but at least they're pretending to care."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b3694dae-9bd3-4da6-818b-475d9cee2b00",
+      "arrival_index": 5,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "Brent crude prices plunged nearly 4% today, hitting a three-month low as concerns over global economic growth intensified. A surprisingly large build in U.S. crude oil inventories, reported by the Energy Information Administration, further fueled bearish sentiment. Traders are now reassessing demand forecasts, particularly in key markets like China and Europe. The drop reflects broader anxieties regarding a potential recession and its impact on energy consumption.",
+      "sentences": [
+        "Brent crude prices plunged nearly 4% today, hitting a three-month low as concerns over global economic growth intensified.",
+        "A surprisingly large build in U.S. crude oil inventories, reported by the Energy Information Administration, further fueled bearish sentiment.",
+        "Traders are now reassessing demand forecasts, particularly in key markets like China and Europe.",
+        "The drop reflects broader anxieties regarding a potential recession and its impact on energy consumption."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "f2bde3ae-c145-4400-a3cf-c0c5f374fa07",
+      "arrival_index": 35,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "Brent crude prices plummeted almost 4% today, reaching a three-month low \ud83d\udcc9. The Energy Information Administration reported a significant increase in U.S. crude oil inventories, adding to the downward pressure. Traders are now questioning demand forecasts, especially in China and Europe \ud83c\udf0d. This drop mirrors wider worries about a possible recession and its effect on energy use.\n#oilprices #economy\n@GlobalMarketWatch",
+      "sentences": [
+        "Brent crude prices plummeted almost 4% today, reaching a three-month low \ud83d\udcc9.",
+        "The Energy Information Administration reported a significant increase in U.S. crude oil inventories, adding to the downward pressure.",
+        "Traders are now questioning demand forecasts, especially in China and Europe \ud83c\udf0d.",
+        "This drop mirrors wider worries about a possible recession and its effect on energy use.",
+        "#oilprices #economy\n@GlobalMarketWatch"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "de693435-8d52-4e77-b0e9-a6e0e5db829d",
+      "arrival_index": 78,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "\u041e\u0433\u043e, \u0446\u0435\u043d\u044b \u043d\u0430 \u043d\u0435\u0444\u0442\u044c Brent \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0441\u0438\u043b\u044c\u043d\u043e \u0443\u043f\u0430\u043b\u0438 - \u043f\u043e\u0447\u0442\u0438 \u043d\u0430 4% \u0438 \u0434\u043e \u0442\u0440\u0435\u0445\u043c\u0435\u0441\u044f\u0447\u043d\u043e\u0433\u043e \u043c\u0438\u043d\u0438\u043c\u0443\u043c\u0430! \u0412\u0438\u0434\u0438\u043c\u043e, \u0432\u0441\u0435 \u043f\u0435\u0440\u0435\u0436\u0438\u0432\u0430\u044e\u0442 \u0438\u0437-\u0437\u0430 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438, \u0438 \u0442\u0443\u0442 \u0435\u0449\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 EIA \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u0437\u0430\u043f\u0430\u0441\u044b \u043d\u0435\u0444\u0442\u0438 \u0432 \u0421\u0428\u0410 \u0432\u044b\u0440\u043e\u0441\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u043e\u0436\u0438\u0434\u0430\u043b\u0438. \u0422\u0435\u043f\u0435\u0440\u044c \u0432\u0441\u0435 \u0433\u0430\u0434\u0430\u044e\u0442, \u043a\u0430\u043a \u0441\u0438\u043b\u044c\u043d\u043e \u0441\u043f\u0440\u043e\u0441 \u0443\u043f\u0430\u0434\u0435\u0442 \u0432 \u041a\u0438\u0442\u0430\u0435 \u0438 \u0415\u0432\u0440\u043e\u043f\u0435 - \u043d\u0435 \u043a \u0434\u043e\u0431\u0440\u0443 \u044d\u0442\u0438 \u043d\u043e\u0432\u043e\u0441\u0442\u0438. #\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430",
+      "sentences": [
+        "\u041e\u0433\u043e, \u0446\u0435\u043d\u044b \u043d\u0430 \u043d\u0435\u0444\u0442\u044c Brent \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0441\u0438\u043b\u044c\u043d\u043e \u0443\u043f\u0430\u043b\u0438 - \u043f\u043e\u0447\u0442\u0438 \u043d\u0430 4% \u0438 \u0434\u043e \u0442\u0440\u0435\u0445\u043c\u0435\u0441\u044f\u0447\u043d\u043e\u0433\u043e \u043c\u0438\u043d\u0438\u043c\u0443\u043c\u0430!",
+        "\u0412\u0438\u0434\u0438\u043c\u043e, \u0432\u0441\u0435 \u043f\u0435\u0440\u0435\u0436\u0438\u0432\u0430\u044e\u0442 \u0438\u0437-\u0437\u0430 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438, \u0438 \u0442\u0443\u0442 \u0435\u0449\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 EIA \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u0437\u0430\u043f\u0430\u0441\u044b \u043d\u0435\u0444\u0442\u0438 \u0432 \u0421\u0428\u0410 \u0432\u044b\u0440\u043e\u0441\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u043e\u0436\u0438\u0434\u0430\u043b\u0438.",
+        "\u0422\u0435\u043f\u0435\u0440\u044c \u0432\u0441\u0435 \u0433\u0430\u0434\u0430\u044e\u0442, \u043a\u0430\u043a \u0441\u0438\u043b\u044c\u043d\u043e \u0441\u043f\u0440\u043e\u0441 \u0443\u043f\u0430\u0434\u0435\u0442 \u0432 \u041a\u0438\u0442\u0430\u0435 \u0438 \u0415\u0432\u0440\u043e\u043f\u0435 - \u043d\u0435 \u043a \u0434\u043e\u0431\u0440\u0443 \u044d\u0442\u0438 \u043d\u043e\u0432\u043e\u0441\u0442\u0438.",
+        "#\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "364c21f2-0b17-4224-bbda-45468e64cdc7",
+      "arrival_index": 11,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "Oil prices absolutely tanked today \u2013 a ridiculous 4% drop! Apparently, everyone\u2019s worried about the economy now, which is totally justified. Those inventory numbers from the US just made things even worse, showing nobody needs all that oil. Honestly, this is what happens when people panic about a slowdown.",
+      "sentences": [
+        "Oil prices absolutely tanked today \u2013 a ridiculous 4% drop!",
+        "Apparently, everyone\u2019s worried about the economy now, which is totally justified.",
+        "Those inventory numbers from the US just made things even worse, showing nobody needs all that oil.",
+        "Honestly, this is what happens when people panic about a slowdown."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b27e1d32-4fb3-402f-b9a5-2073e6d43794",
+      "arrival_index": 51,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "Brent crude prices fell almost 4% on Wednesday, reaching a three-month low. The Energy Information Administration reported a larger-than-expected increase in U.S. crude oil inventories. Traders are revising demand forecasts for China and Europe. The decline reflects concerns about global economic growth and a potential recession.",
+      "sentences": [
+        "Brent crude prices fell almost 4% on Wednesday, reaching a three-month low.",
+        "The Energy Information Administration reported a larger-than-expected increase in U.S. crude oil inventories.",
+        "Traders are revising demand forecasts for China and Europe.",
+        "The decline reflects concerns about global economic growth and a potential recession."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "c6188155-ed7f-49ca-8f08-a0e5bd75531a",
+      "arrival_index": 15,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "Brent crude prices dropped ~4% today, hitting a 3-mo low! \ud83d\udcc9 EIA data showed a big jump in US oil inventories, adding to the gloom. Traders are scaling back demand forecasts for China & Europe amid recession fears. #OilPrice #EnergyMarket",
+      "sentences": [
+        "Brent crude prices dropped ~4% today, hitting a 3-mo low!",
+        "\ud83d\udcc9 EIA data showed a big jump in US oil inventories, adding to the gloom.",
+        "Traders are scaling back demand forecasts for China & Europe amid recession fears.",
+        "#OilPrice #EnergyMarket"
+      ],
+      "placement_profile": "none",
+      "platform": "twitter",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "6d66b0ec-a2eb-41bd-95ec-ed89143531a0",
+      "arrival_index": 67,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "Oil prices are tanking, and it's a pretty clear signal about the shaky state of the global economy. The latest inventory data confirms what many have feared: demand is weakening, especially in crucial markets like China. This isn't just about oil; it's a flashing warning sign about a possible recession and the reduced energy needs that would accompany it. Frankly, anyone still bullish on energy should probably re-evaluate their position.",
+      "sentences": [
+        "Oil prices are tanking, and it's a pretty clear signal about the shaky state of the global economy.",
+        "The latest inventory data confirms what many have feared: demand is weakening, especially in crucial markets like China.",
+        "This isn't just about oil; it's a flashing warning sign about a possible recession and the reduced energy needs that would accompany it.",
+        "Frankly, anyone still bullish on energy should probably re-evaluate their position."
+      ],
+      "placement_profile": "none",
+      "platform": "blog",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ca441049-5a1f-4fc8-9799-2c858fc43216",
+      "arrival_index": 59,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "Brent crude prices plummeted almost 4% today, reaching a three-month low \ud83d\udcc9. Increased U.S. crude oil inventories, according to the Energy Information Administration, added to the negative outlook. Traders are adjusting demand expectations, especially in China and Europe \ud83c\udf0d. This decline mirrors worries about a possible recession and its effect on energy use.\n#oilprices #economy @GlobalFinanceWatch",
+      "sentences": [
+        "Brent crude prices plummeted almost 4% today, reaching a three-month low \ud83d\udcc9.",
+        "Increased U.S. crude oil inventories, according to the Energy Information Administration, added to the negative outlook.",
+        "Traders are adjusting demand expectations, especially in China and Europe \ud83c\udf0d.",
+        "This decline mirrors worries about a possible recession and its effect on energy use.",
+        "#oilprices #economy @GlobalFinanceWatch"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "405ac2f1-8db7-4632-9e8e-e0ade6e601c6",
+      "arrival_index": 92,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "\u041e\u0439-\u043e\u0439-\u043e\u0439, \u043d\u0435\u0444\u0442\u044c Brent \u0441\u0438\u043b\u044c\u043d\u043e \u043f\u0440\u043e\u0441\u0435\u043b\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u2013 \u043f\u043e\u0447\u0442\u0438 \u043d\u0430 4%! \ud83d\udcc9 \u0426\u0435\u043d\u044b \u0443\u043f\u0430\u043b\u0438 \u0434\u043e \u0442\u0440\u0435\u0445\u043c\u0435\u0441\u044f\u0447\u043d\u043e\u0433\u043e \u043c\u0438\u043d\u0438\u043c\u0443\u043c\u0430 \u0438\u0437-\u0437\u0430 \u043e\u043f\u0430\u0441\u0435\u043d\u0438\u0439 \u043f\u043e \u043f\u043e\u0432\u043e\u0434\u0443 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438. \u0410 \u0435\u0449\u0435 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e\u0441\u044c, \u0447\u0442\u043e \u0432 \u0421\u0428\u0410 \u0437\u0430\u043f\u0430\u0441\u044b \u043d\u0435\u0444\u0442\u0438 \u0432\u044b\u0440\u043e\u0441\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u043e\u0436\u0438\u0434\u0430\u043b\u0438 \u2013 \u0432\u043e\u0442 \u043f\u043e\u0447\u0435\u043c\u0443 \u0432\u0441\u0435 \u0442\u0430\u043a \u043d\u0435\u0440\u0432\u043d\u0438\u0447\u0430\u044e\u0442. \u0422\u0435\u043f\u0435\u0440\u044c \u0432\u0441\u0435 \u0433\u0430\u0434\u0430\u044e\u0442, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u0441\u044f \u0441\u043f\u0440\u043e\u0441, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0432 \u041a\u0438\u0442\u0430\u0435 \u0438 \u0415\u0432\u0440\u043e\u043f\u0435. #\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430",
+      "sentences": [
+        "\u041e\u0439-\u043e\u0439-\u043e\u0439, \u043d\u0435\u0444\u0442\u044c Brent \u0441\u0438\u043b\u044c\u043d\u043e \u043f\u0440\u043e\u0441\u0435\u043b\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u2013 \u043f\u043e\u0447\u0442\u0438 \u043d\u0430 4%!",
+        "\ud83d\udcc9 \u0426\u0435\u043d\u044b \u0443\u043f\u0430\u043b\u0438 \u0434\u043e \u0442\u0440\u0435\u0445\u043c\u0435\u0441\u044f\u0447\u043d\u043e\u0433\u043e \u043c\u0438\u043d\u0438\u043c\u0443\u043c\u0430 \u0438\u0437-\u0437\u0430 \u043e\u043f\u0430\u0441\u0435\u043d\u0438\u0439 \u043f\u043e \u043f\u043e\u0432\u043e\u0434\u0443 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438.",
+        "\u0410 \u0435\u0449\u0435 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e\u0441\u044c, \u0447\u0442\u043e \u0432 \u0421\u0428\u0410 \u0437\u0430\u043f\u0430\u0441\u044b \u043d\u0435\u0444\u0442\u0438 \u0432\u044b\u0440\u043e\u0441\u043b\u0438 \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u043e\u0436\u0438\u0434\u0430\u043b\u0438 \u2013 \u0432\u043e\u0442 \u043f\u043e\u0447\u0435\u043c\u0443 \u0432\u0441\u0435 \u0442\u0430\u043a \u043d\u0435\u0440\u0432\u043d\u0438\u0447\u0430\u044e\u0442.",
+        "\u0422\u0435\u043f\u0435\u0440\u044c \u0432\u0441\u0435 \u0433\u0430\u0434\u0430\u044e\u0442, \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u0441\u044f \u0441\u043f\u0440\u043e\u0441, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0432 \u041a\u0438\u0442\u0430\u0435 \u0438 \u0415\u0432\u0440\u043e\u043f\u0435.",
+        "#\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "30a2e862-ee48-4e6d-9de5-a632b9adef09",
+      "arrival_index": 10,
+      "true_cluster": 4,
+      "is_titled": false,
+      "title": null,
+      "body": "Oil prices are tanking \u2013 seriously, nearly 4%! Everyone's freaking out about the economy, and rightfully so. The US is hoarding even *more* oil, which is just fantastic for anyone hoping for stability. Clearly, nobody thinks China or Europe are going to be buying much anytime soon.",
+      "sentences": [
+        "Oil prices are tanking \u2013 seriously, nearly 4%!",
+        "Everyone's freaking out about the economy, and rightfully so.",
+        "The US is hoarding even *more* oil, which is just fantastic for anyone hoping for stability.",
+        "Clearly, nobody thinks China or Europe are going to be buying much anytime soon."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "0ac9d340-32f3-4d8d-9e58-a6e8331f2fa7",
+      "arrival_index": 9,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "Wildfires intensified across the Peloponnese and Crete regions of southern Greece today, fueled by strong winds and high temperatures. Authorities have ordered the evacuation of the coastal villages of Areopoli, Gerolimenas, and Kalamitsi as the flames rapidly approach. Greece has formally requested assistance through the European Union\u2019s civil protection mechanism, seeking aerial firefighting support and personnel. The cause of the fires is currently under investigation, although dry lightning strikes are suspected.",
+      "sentences": [
+        "Wildfires intensified across the Peloponnese and Crete regions of southern Greece today, fueled by strong winds and high temperatures.",
+        "Authorities have ordered the evacuation of the coastal villages of Areopoli, Gerolimenas, and Kalamitsi as the flames rapidly approach.",
+        "Greece has formally requested assistance through the European Union\u2019s civil protection mechanism, seeking aerial firefighting support and personnel.",
+        "The cause of the fires is currently under investigation, although dry lightning strikes are suspected."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "e776ef6b-0b96-4ae1-a713-a9767605a234",
+      "arrival_index": 30,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "\ud83d\udd25 Wildfires are rapidly spreading across the Peloponnese and Crete, exacerbated by strong winds and extreme heat. Evacuation orders are in place for coastal villages including Areopoli, Gerolimenas, and Kalamitsi due to the approaching flames. Greece has requested assistance from the EU, seeking aerial firefighting support and personnel to combat the blazes. The cause is unknown, but dry lightning strikes are being investigated. \ud83d\udca8 #GreeceFires @NewsBriefs",
+      "sentences": [
+        "\ud83d\udd25 Wildfires are rapidly spreading across the Peloponnese and Crete, exacerbated by strong winds and extreme heat.",
+        "Evacuation orders are in place for coastal villages including Areopoli, Gerolimenas, and Kalamitsi due to the approaching flames.",
+        "Greece has requested assistance from the EU, seeking aerial firefighting support and personnel to combat the blazes.",
+        "The cause is unknown, but dry lightning strikes are being investigated.",
+        "\ud83d\udca8 #GreeceFires @NewsBriefs"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "cf2a04b8-83ba-4ce1-b65c-d6f0816f3efc",
+      "arrival_index": 19,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "\ud83d\udd25 Serious wildfires are raging in the Peloponnese and Crete right now \u2013 it's pretty scary! People living in Areopoli, Gerolimenas, and Kalamitsi had to evacuate because the fires are spreading fast with all the wind and heat. Greece just asked the EU for help with planes and firefighters, hopefully they can get things under control soon. \u26a1\ufe0f The cause is still unknown, but they think it might have been dry lightning. #Greece #wildfires",
+      "sentences": [
+        "\ud83d\udd25 Serious wildfires are raging in the Peloponnese and Crete right now \u2013 it's pretty scary!",
+        "People living in Areopoli, Gerolimenas, and Kalamitsi had to evacuate because the fires are spreading fast with all the wind and heat.",
+        "Greece just asked the EU for help with planes and firefighters, hopefully they can get things under control soon.",
+        "\u26a1\ufe0f The cause is still unknown, but they think it might have been dry lightning.",
+        "#Greece #wildfires"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b9e737c1-4608-4535-b41c-98d517c10198",
+      "arrival_index": 64,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "These wildfires in Greece are absolutely terrifying, and the situation down south is getting worse with those crazy winds. They\u2019re having to evacuate entire villages like Areopoli \u2013 can you imagine losing everything? Good thing they're finally asking the EU for help, because Greece clearly can't handle this alone, and hopefully it's dry lightning, not something worse.",
+      "sentences": [
+        "These wildfires in Greece are absolutely terrifying, and the situation down south is getting worse with those crazy winds.",
+        "They\u2019re having to evacuate entire villages like Areopoli \u2013 can you imagine losing everything?",
+        "Good thing they're finally asking the EU for help, because Greece clearly can't handle this alone, and hopefully it's dry lightning, not something worse."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ce2578d6-af97-4e9a-9c7b-9ed4b1796043",
+      "arrival_index": 39,
+      "true_cluster": 5,
+      "is_titled": false,
+      "title": null,
+      "body": "Wildfires are spreading in the Peloponnese and Crete regions of southern Greece, exacerbated by strong winds and high temperatures. Evacuation orders are in place for the coastal villages of Areopoli, Gerolimenas, and Kalamitsi due to the approaching flames. Greek authorities have requested assistance from the European Union's civil protection mechanism, specifically seeking aerial firefighting resources. The cause of the fires remains undetermined, but dry lightning strikes are a suspected factor.",
+      "sentences": [
+        "Wildfires are spreading in the Peloponnese and Crete regions of southern Greece, exacerbated by strong winds and high temperatures.",
+        "Evacuation orders are in place for the coastal villages of Areopoli, Gerolimenas, and Kalamitsi due to the approaching flames.",
+        "Greek authorities have requested assistance from the European Union's civil protection mechanism, specifically seeking aerial firefighting resources.",
+        "The cause of the fires remains undetermined, but dry lightning strikes are a suspected factor."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "a09faffe-c606-43fc-9fa7-488a056dbd5b",
+      "arrival_index": 91,
+      "true_cluster": 6,
+      "is_titled": true,
+      "title": "Faith Thompson Shatters 1500m World Record in Zurich",
+      "body": "Faith Thompson of Great Britain stunned the athletics world today, setting a new world record in the women\u2019s 1500 metres at the Zurich Diamond League meet. Her time of 3:54.21 eclipsed the previous mark, held by Alina Petrova, by nearly fifteen years. The atmosphere in the stadium was electric as Thompson surged ahead in the final 200 metres, leaving her competitors trailing. The performance is being hailed as a landmark moment in women's middle-distance running.",
+      "sentences": [
+        "Faith Thompson of Great Britain stunned the athletics world today, setting a new world record in the women\u2019s 1500 metres at the Zurich Diamond League meet.",
+        "Her time of 3:54.21 eclipsed the previous mark, held by Alina Petrova, by nearly fifteen years.",
+        "The atmosphere in the stadium was electric as Thompson surged ahead in the final 200 metres, leaving her competitors trailing.",
+        "The performance is being hailed as a landmark moment in women's middle-distance running."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b62a8d40-6727-4e7b-a776-c457edd7755b",
+      "arrival_index": 54,
+      "true_cluster": 6,
+      "is_titled": true,
+      "title": "Thompson Breaks 1500m World Record!",
+      "body": "\ud83c\uddec\ud83c\udde7 Faith Thompson just smashed the women's 1500m world record in Zurich with an incredible time of 3:54.21! She beat Alina Petrova's previous record, which stood for almost 15 years. The stadium erupted as she powered through the final stretch \ud83c\udfc3\u200d\u2640\ufe0f. A monumental achievement in women's athletics! #WorldRecord #Athletics @TrackNewsCentral",
+      "sentences": [
+        "\ud83c\uddec\ud83c\udde7 Faith Thompson just smashed the women's 1500m world record in Zurich with an incredible time of 3:54.21!",
+        "She beat Alina Petrova's previous record, which stood for almost 15 years.",
+        "The stadium erupted as she powered through the final stretch \ud83c\udfc3\u200d\u2640\ufe0f.",
+        "A monumental achievement in women's athletics!",
+        "#WorldRecord #Athletics @TrackNewsCentral"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "6ec4cdfa-5f5d-4b6b-8ffa-bcbba22035d9",
+      "arrival_index": 63,
+      "true_cluster": 6,
+      "is_titled": true,
+      "title": "Faith Thompson Breaks the 1500m World Record!",
+      "body": "OMG, did you see Faith Thompson absolutely crush it in Zurich?! She just set a new world record in the 1500m with a time of 3:54.21 \u2013 beating the old record by like, 15 years! The crowd was wild, it was an epic finish. \ud83c\udfc3\u200d\u2640\ufe0f\ud83c\uddec\ud83c\udde7 #athletics #running",
+      "sentences": [
+        "OMG, did you see Faith Thompson absolutely crush it in Zurich?!",
+        "She just set a new world record in the 1500m with a time of 3:54.21 \u2013 beating the old record by like, 15 years!",
+        "The crowd was wild, it was an epic finish.",
+        "\ud83c\udfc3\u200d\u2640\ufe0f\ud83c\uddec\ud83c\udde7 #athletics #running"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "84306173-e88f-4864-9623-adbc48a32ffc",
+      "arrival_index": 75,
+      "true_cluster": 6,
+      "is_titled": true,
+      "title": "British Runner Absolutely Crushes World Record!",
+      "body": "Can you believe it?! Faith Thompson just demolished the 1500m world record in Zurich \u2013 3:54.21! It's been almost fifteen years since anyone even came close; finally someone with some real speed. Honestly, Petrova\u2019s record was getting embarrassing.",
+      "sentences": [
+        "Can you believe it?!",
+        "Faith Thompson just demolished the 1500m world record in Zurich \u2013 3:54.21!",
+        "It's been almost fifteen years since anyone even came close; finally someone with some real speed.",
+        "Honestly, Petrova\u2019s record was getting embarrassing."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "cf95a714-5168-48d1-8a7b-682a4ab169c8",
+      "arrival_index": 90,
+      "true_cluster": 6,
+      "is_titled": true,
+      "title": "Thompson Sets New World Record in Zurich",
+      "body": "Faith Thompson, representing Great Britain, achieved a world record time of 3:54.21 in the women\u2019s 1500-meter race at the Zurich Diamond League. The performance broke the previous record, which had stood for almost fifteen years. The victory occurred during the final stretch of the competition. This marks a significant achievement in women's middle-distance athletics.",
+      "sentences": [
+        "Faith Thompson, representing Great Britain, achieved a world record time of 3:54.21 in the women\u2019s 1500-meter race at the Zurich Diamond League.",
+        "The performance broke the previous record, which had stood for almost fifteen years.",
+        "The victory occurred during the final stretch of the competition.",
+        "This marks a significant achievement in women's middle-distance athletics."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "7ceba8c5-d6d6-4646-b6e0-d7c0aceab224",
+      "arrival_index": 55,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "European semiconductor firm, Siltronic AG, announced today it will build a new \u20ac2.5 billion fabrication plant in Dresden, Saxony, marking a significant investment in the region\u2019s technological infrastructure. The project, slated to begin construction next year, will create over 500 high-skilled jobs and bolster Germany's position in the global chip supply chain. Funding will be provided through a combination of German federal and state subsidies, alongside significant support from the European Union\u2019s Chips Act. Siltronic anticipates the facility will be operational within five years, producing advanced silicon wafers for various industries.",
+      "sentences": [
+        "European semiconductor firm, Siltronic AG, announced today it will build a new \u20ac2.5 billion fabrication plant in Dresden, Saxony, marking a significant investment in the region\u2019s technological infrastructure.",
+        "The project, slated to begin construction next year, will create over 500 high-skilled jobs and bolster Germany's position in the global chip supply chain.",
+        "Funding will be provided through a combination of German federal and state subsidies, alongside significant support from the European Union\u2019s Chips Act.",
+        "Siltronic anticipates the facility will be operational within five years, producing advanced silicon wafers for various industries."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "a5ec7358-f392-4d84-a5ce-cfec9f31a797",
+      "arrival_index": 70,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "Siltronic AG is investing \u20ac2.5 billion to build a new chip fabrication plant in Dresden, Germany! \ud83c\udde9\ud83c\uddea The facility will generate over 500 high-skilled jobs and strengthen Germany's role in the chip supply chain. Construction is expected to start next year, with operations beginning in approximately five years, supported by EU and German funding. \ud83d\udcb0 #Semiconductors #ChipManufacturing @TechNewsCentral",
+      "sentences": [
+        "Siltronic AG is investing \u20ac2.5 billion to build a new chip fabrication plant in Dresden, Germany!",
+        "\ud83c\udde9\ud83c\uddea The facility will generate over 500 high-skilled jobs and strengthen Germany's role in the chip supply chain.",
+        "Construction is expected to start next year, with operations beginning in approximately five years, supported by EU and German funding.",
+        "\ud83d\udcb0 #Semiconductors #ChipManufacturing @TechNewsCentral"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "d7b5f90d-4347-4f90-9e3b-970f67a93142",
+      "arrival_index": 6,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, huge news! Siltronic is building a massive new chip factory in Dresden, Saxony - it's going to be a \u20ac2.5 billion project! \ud83e\udd29 They're creating over 500 new, high-skilled jobs and really strengthening Germany\u2019s chip production. The EU and Germany are helping to fund it, so expect some serious tech advancements in the next few years! #tech #semiconductors #germany",
+      "sentences": [
+        "Guys, huge news!",
+        "Siltronic is building a massive new chip factory in Dresden, Saxony - it's going to be a \u20ac2.5 billion project!",
+        "\ud83e\udd29 They're creating over 500 new, high-skilled jobs and really strengthening Germany\u2019s chip production.",
+        "The EU and Germany are helping to fund it, so expect some serious tech advancements in the next few years!",
+        "#tech #semiconductors #germany"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "1c1002f4-4c90-4232-8039-06b1a6337340",
+      "arrival_index": 31,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "Finally, some real money is going into German tech! Siltronic is building a massive \u20ac2.5 billion chip plant in Dresden \u2013 about time they caught up. This will create 500 good jobs and help Germany actually compete in the semiconductor game, thanks to EU and government funding. It'll take five years, but it's a step in the right direction.",
+      "sentences": [
+        "Finally, some real money is going into German tech!",
+        "Siltronic is building a massive \u20ac2.5 billion chip plant in Dresden \u2013 about time they caught up.",
+        "This will create 500 good jobs and help Germany actually compete in the semiconductor game, thanks to EU and government funding.",
+        "It'll take five years, but it's a step in the right direction."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "6160f4fd-227b-45a2-a6ab-0d165a9f03e3",
+      "arrival_index": 65,
+      "true_cluster": 7,
+      "is_titled": false,
+      "title": null,
+      "body": "Siltronic AG will construct a \u20ac2.5 billion fabrication plant in Dresden, Saxony. The facility is expected to begin construction next year and will employ more than 500 highly skilled workers. The project will be financed by German and European Union funding, including support from the Chips Act. Siltronic projects the plant will begin operations within five years, manufacturing silicon wafers.",
+      "sentences": [
+        "Siltronic AG will construct a \u20ac2.5 billion fabrication plant in Dresden, Saxony.",
+        "The facility is expected to begin construction next year and will employ more than 500 highly skilled workers.",
+        "The project will be financed by German and European Union funding, including support from the Chips Act.",
+        "Siltronic projects the plant will begin operations within five years, manufacturing silicon wafers."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "c5a6ba68-6c6e-4eeb-94b1-a1b7e8f16779",
+      "arrival_index": 33,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "European regulators have granted approval for Cablivi, a novel long-acting injectable medication designed for HIV prevention. The treatment, administered every eight weeks, offers a discreet alternative to daily oral pre-exposure prophylaxis (PrEP). Pharmaceutical company ViiV Healthcare anticipates the drug will be available across Europe by mid-year, pending national pricing and reimbursement decisions. Public health officials are cautiously optimistic about Cablivi's potential to expand access to preventative measures and reduce HIV transmission rates.",
+      "sentences": [
+        "European regulators have granted approval for Cablivi, a novel long-acting injectable medication designed for HIV prevention.",
+        "The treatment, administered every eight weeks, offers a discreet alternative to daily oral pre-exposure prophylaxis (PrEP).",
+        "Pharmaceutical company ViiV Healthcare anticipates the drug will be available across Europe by mid-year, pending national pricing and reimbursement decisions.",
+        "Public health officials are cautiously optimistic about Cablivi's potential to expand access to preventative measures and reduce HIV transmission rates."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "333d6eee-6d34-45fd-a0b3-3e31da8fdd99",
+      "arrival_index": 76,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "\ud83c\udf89 European regulators have approved Cablivi, a new injectable medication for HIV prevention! This long-acting treatment is given every eight weeks, providing a less frequent option than daily PrEP. ViiV Healthcare expects Cablivi to be available across Europe by mid-year, subject to local approvals. Officials hope this will increase access to prevention and lower transmission rates. \ud83d\udc89 #HIVPrevention #Cablivi @HealthUpdatesChannel",
+      "sentences": [
+        "\ud83c\udf89 European regulators have approved Cablivi, a new injectable medication for HIV prevention!",
+        "This long-acting treatment is given every eight weeks, providing a less frequent option than daily PrEP.",
+        "ViiV Healthcare expects Cablivi to be available across Europe by mid-year, subject to local approvals.",
+        "Officials hope this will increase access to prevention and lower transmission rates.",
+        "\ud83d\udc89 #HIVPrevention #Cablivi @HealthUpdatesChannel"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "ffea25f8-0b08-49a0-8f31-2cc08fa70711",
+      "arrival_index": 77,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "Guys, big news! \ud83e\udd29 A new injectable HIV prevention med called Cablivi just got the green light in Europe - it's given every two months instead of a daily pill! ViiV Healthcare says it should be available across Europe soon, but it depends on each country's decisions. Hopefully, this makes it easier for more people to protect themselves and lower transmission rates. \ud83d\udc89 #health",
+      "sentences": [
+        "Guys, big news!",
+        "\ud83e\udd29 A new injectable HIV prevention med called Cablivi just got the green light in Europe - it's given every two months instead of a daily pill!",
+        "ViiV Healthcare says it should be available across Europe soon, but it depends on each country's decisions.",
+        "Hopefully, this makes it easier for more people to protect themselves and lower transmission rates.",
+        "\ud83d\udc89 #health"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "a2284a45-41d1-4546-a101-f155a55feed0",
+      "arrival_index": 57,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "Finally, some real progress on HIV prevention! This new injectable medicine, Cablivi, is approved in Europe and a huge relief from those annoying daily pills. It\u2019s being rolled out mid-year, so hopefully it won\u2019t get bogged down in bureaucratic nonsense. Let's hope this actually helps more people protect themselves.",
+      "sentences": [
+        "Finally, some real progress on HIV prevention!",
+        "This new injectable medicine, Cablivi, is approved in Europe and a huge relief from those annoying daily pills.",
+        "It\u2019s being rolled out mid-year, so hopefully it won\u2019t get bogged down in bureaucratic nonsense.",
+        "Let's hope this actually helps more people protect themselves."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "6ad5040d-5f74-4de5-8afc-cc896eb9a051",
+      "arrival_index": 36,
+      "true_cluster": 8,
+      "is_titled": false,
+      "title": null,
+      "body": "European regulators have approved Cablivi, a long-acting injectable medication for HIV prevention. The treatment requires administration every eight weeks, providing an alternative to daily oral PrEP. ViiV Healthcare expects Cablivi to be available in Europe by mid-year, subject to national pricing and reimbursement. Public health officials have expressed cautious optimism regarding the drug\u2019s potential impact on HIV transmission.",
+      "sentences": [
+        "European regulators have approved Cablivi, a long-acting injectable medication for HIV prevention.",
+        "The treatment requires administration every eight weeks, providing an alternative to daily oral PrEP.",
+        "ViiV Healthcare expects Cablivi to be available in Europe by mid-year, subject to national pricing and reimbursement.",
+        "Public health officials have expressed cautious optimism regarding the drug\u2019s potential impact on HIV transmission."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "fd7745ca-fa62-473c-a167-43dbfb5ea8cd",
+      "arrival_index": 38,
+      "true_cluster": 9,
+      "is_titled": false,
+      "title": null,
+      "body": "A previously unknown collection of poems by Polish Romantic poet Julian Ursyn Niemcewicz has been unearthed in the Austrian National Library\u2019s archives. The manuscript, believed to have been smuggled out of Poland during the Napoleonic Wars, consists of nearly 200 pages of verse and prose fragments. Experts are hailing the find as a significant contribution to the understanding of Niemcewicz's literary development and the political climate of the era. Initial analysis suggests the poems offer a fresh perspective on the poet\u2019s views on Polish identity and European affairs.",
+      "sentences": [
+        "A previously unknown collection of poems by Polish Romantic poet Julian Ursyn Niemcewicz has been unearthed in the Austrian National Library\u2019s archives.",
+        "The manuscript, believed to have been smuggled out of Poland during the Napoleonic Wars, consists of nearly 200 pages of verse and prose fragments.",
+        "Experts are hailing the find as a significant contribution to the understanding of Niemcewicz's literary development and the political climate of the era.",
+        "Initial analysis suggests the poems offer a fresh perspective on the poet\u2019s views on Polish identity and European affairs."
+      ],
+      "placement_profile": "none",
+      "platform": "canonical",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "4abe0269-f267-4340-a875-ea3ce82f241c",
+      "arrival_index": 47,
+      "true_cluster": 9,
+      "is_titled": false,
+      "title": null,
+      "body": "\ud83e\udd2f A lost collection of poems by Julian Ursyn Niemcewicz has been discovered in the Austrian National Library! The manuscript, containing almost 200 pages of verse and prose, is thought to have been smuggled from Poland long ago. Scholars believe this find will significantly enhance our understanding of Niemcewicz\u2019s work and the historical context. \ud83d\udcdc It seems the poems offer new insights into Polish identity and European politics. #PolishLiterature #HistoricalFind @HistoryUncovered",
+      "sentences": [
+        "\ud83e\udd2f A lost collection of poems by Julian Ursyn Niemcewicz has been discovered in the Austrian National Library!",
+        "The manuscript, containing almost 200 pages of verse and prose, is thought to have been smuggled from Poland long ago.",
+        "Scholars believe this find will significantly enhance our understanding of Niemcewicz\u2019s work and the historical context.",
+        "\ud83d\udcdc It seems the poems offer new insights into Polish identity and European politics.",
+        "#PolishLiterature #HistoricalFind @HistoryUncovered"
+      ],
+      "placement_profile": "none",
+      "platform": "telegram",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "b73002b5-1ada-4aaf-858f-d03a722c83b8",
+      "arrival_index": 66,
+      "true_cluster": 9,
+      "is_titled": false,
+      "title": null,
+      "body": "OMG, can you believe it?! A huge stash of previously unseen poems by Julian Ursyn Niemcewicz just popped up in the Austrian National Library's archives. Apparently, they were smuggled out of Poland ages ago during the Napoleonic Wars \u2013 almost 200 pages of poems and writings! Scholars are saying this is a seriously big deal for understanding his work and what was going on back then. #PolishLiterature #HistoryBuffs",
+      "sentences": [
+        "OMG, can you believe it?!",
+        "A huge stash of previously unseen poems by Julian Ursyn Niemcewicz just popped up in the Austrian National Library's archives.",
+        "Apparently, they were smuggled out of Poland ages ago during the Napoleonic Wars \u2013 almost 200 pages of poems and writings!",
+        "Scholars are saying this is a seriously big deal for understanding his work and what was going on back then.",
+        "#PolishLiterature #HistoryBuffs"
+      ],
+      "placement_profile": "none",
+      "platform": "vk",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "974ce03e-a3e7-4cac-aa06-5445f2e63068",
+      "arrival_index": 3,
+      "true_cluster": 9,
+      "is_titled": false,
+      "title": null,
+      "body": "Look what finally surfaced \u2013 a huge stash of poems by Niemcewicz! Apparently, someone managed to sneak them out of Poland ages ago during all that Napoleonic mess. Seriously, 200 pages of verse and scribbles \u2013 this changes everything we thought we knew about him. It's about time these hidden views on Poland and Europe came to light.",
+      "sentences": [
+        "Look what finally surfaced \u2013 a huge stash of poems by Niemcewicz!",
+        "Apparently, someone managed to sneak them out of Poland ages ago during all that Napoleonic mess.",
+        "Seriously, 200 pages of verse and scribbles \u2013 this changes everything we thought we knew about him.",
+        "It's about time these hidden views on Poland and Europe came to light."
+      ],
+      "placement_profile": "none",
+      "platform": "ok",
+      "entity_present": false,
+      "first_slot": null
+    },
+    {
+      "doc_id": "15bd1a2a-b229-4012-9351-4838ed6fd429",
+      "arrival_index": 99,
+      "true_cluster": 9,
+      "is_titled": false,
+      "title": null,
+      "body": "A collection of previously unknown poems by Polish Romantic poet Julian Ursyn Niemcewicz has been discovered in the Austrian National Library. The manuscript, comprising approximately 200 pages of verse and prose, is thought to have been smuggled from Poland during the Napoleonic Wars. Scholars describe the find as potentially illuminating Niemcewicz\u2019s literary development and the political context of the time. The poems appear to provide new insights into the poet\u2019s perspectives on Polish identity and European politics.",
+      "sentences": [
+        "A collection of previously unknown poems by Polish Romantic poet Julian Ursyn Niemcewicz has been discovered in the Austrian National Library.",
+        "The manuscript, comprising approximately 200 pages of verse and prose, is thought to have been smuggled from Poland during the Napoleonic Wars.",
+        "Scholars describe the find as potentially illuminating Niemcewicz\u2019s literary development and the political context of the time.",
+        "The poems appear to provide new insights into the poet\u2019s perspectives on Polish identity and European politics."
+      ],
+      "placement_profile": "none",
+      "platform": "wire_brief",
+      "entity_present": false,
+      "first_slot": null
+    }
+  ]
+}

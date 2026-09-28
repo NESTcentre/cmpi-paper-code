@@ -1,0 +1,18 @@
+# R analysis: downloaded data and generated figures
+analysis/data-cache/
+analysis/output/
+analysis/renv/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python simulation
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

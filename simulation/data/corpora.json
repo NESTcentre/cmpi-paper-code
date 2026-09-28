@@ -1,0 +1,242 @@
+{
+  "04029002-6939-4228-85cf-0baf1218cee8": {
+    "corpus_uuid": "04029002-6939-4228-85cf-0baf1218cee8",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-04T23:54:21.044337+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 0,
+    "retry_stats": {
+      "diagnostic_retries": 2,
+      "redraws_after_diagnostic_failure": 2,
+      "total_llm_calls": 116
+    }
+  },
+  "13bda37a-ac43-49bf-af5b-db47e726dda4": {
+    "corpus_uuid": "13bda37a-ac43-49bf-af5b-db47e726dda4",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T11:58:21.050111+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 9,
+    "retry_stats": {
+      "diagnostic_retries": 1,
+      "redraws_after_diagnostic_failure": 1,
+      "total_llm_calls": 110
+    }
+  },
+  "222a416b-5450-49d7-81b9-bfdf2e3a402f": {
+    "corpus_uuid": "222a416b-5450-49d7-81b9-bfdf2e3a402f",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T10:35:01.300867+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 5,
+    "retry_stats": {
+      "diagnostic_retries": 0,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 100
+    }
+  },
+  "2875e476-f1ca-4917-a42b-cc279eb9a29b": {
+    "corpus_uuid": "2875e476-f1ca-4917-a42b-cc279eb9a29b",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T10:58:11.544627+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 6,
+    "retry_stats": {
+      "diagnostic_retries": 2,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 107
+    }
+  },
+  "5b03e683-9f86-44a8-9469-4250f79d078f": {
+    "corpus_uuid": "5b03e683-9f86-44a8-9469-4250f79d078f",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T09:54:52.618861+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 3,
+    "retry_stats": {
+      "diagnostic_retries": 3,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 111
+    }
+  },
+  "7bdaf65c-5e6d-40e8-a2a5-1cf01a963a89": {
+    "corpus_uuid": "7bdaf65c-5e6d-40e8-a2a5-1cf01a963a89",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T00:32:31.256503+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 1,
+    "retry_stats": {
+      "diagnostic_retries": 1,
+      "redraws_after_diagnostic_failure": 2,
+      "total_llm_calls": 117
+    }
+  },
+  "90b0981f-8280-418f-bd0b-48bec356b0c5": {
+    "corpus_uuid": "90b0981f-8280-418f-bd0b-48bec356b0c5",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T10:20:14.889070+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 4,
+    "retry_stats": {
+      "diagnostic_retries": 4,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 112
+    }
+  },
+  "98bd25f6-c0fc-44fe-9e3a-3eb03c7dfe89": {
+    "corpus_uuid": "98bd25f6-c0fc-44fe-9e3a-3eb03c7dfe89",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T10:43:08.596700+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 5,
+    "retry_stats": {
+      "diagnostic_retries": 2,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 109
+    }
+  },
+  "9f73f9bd-ddde-4707-9904-704a31ee21de": {
+    "corpus_uuid": "9f73f9bd-ddde-4707-9904-704a31ee21de",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T00:05:51.072862+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 0,
+    "retry_stats": {
+      "diagnostic_retries": 6,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 119
+    }
+  },
+  "ac6f0497-aa0c-4eac-8ef5-4a6749e9c782": {
+    "corpus_uuid": "ac6f0497-aa0c-4eac-8ef5-4a6749e9c782",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T11:20:13.351860+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 8,
+    "retry_stats": {
+      "diagnostic_retries": 0,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 100
+    }
+  },
+  "ad310200-069e-4059-ae5a-2f2fda49f434": {
+    "corpus_uuid": "ad310200-069e-4059-ae5a-2f2fda49f434",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T10:27:24.175740+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 4,
+    "retry_stats": {
+      "diagnostic_retries": 0,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 101
+    }
+  },
+  "c00d2d5e-ba81-4266-ba0e-4a547781a9b5": {
+    "corpus_uuid": "c00d2d5e-ba81-4266-ba0e-4a547781a9b5",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T10:50:19.010777+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 6,
+    "retry_stats": {
+      "diagnostic_retries": 0,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 100
+    }
+  },
+  "c90bf7df-b0eb-46b0-ae1b-f6d5520cec99": {
+    "corpus_uuid": "c90bf7df-b0eb-46b0-ae1b-f6d5520cec99",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T11:05:39.416035+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 7,
+    "retry_stats": {
+      "diagnostic_retries": 0,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 102
+    }
+  },
+  "d342b880-0db6-417a-b635-bcd76144f743": {
+    "corpus_uuid": "d342b880-0db6-417a-b635-bcd76144f743",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T11:50:31.602557+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 9,
+    "retry_stats": {
+      "diagnostic_retries": 0,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 100
+    }
+  },
+  "d900d087-d79c-4c7c-8f2c-31e8be8e07b3": {
+    "corpus_uuid": "d900d087-d79c-4c7c-8f2c-31e8be8e07b3",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T11:43:09.230014+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 8,
+    "retry_stats": {
+      "diagnostic_retries": 2,
+      "redraws_after_diagnostic_failure": 1,
+      "total_llm_calls": 111
+    }
+  },
+  "e573840f-9b5a-4b81-8451-762aac3c1217": {
+    "corpus_uuid": "e573840f-9b5a-4b81-8451-762aac3c1217",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T00:24:14.187712+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 1,
+    "retry_stats": {
+      "diagnostic_retries": 3,
+      "redraws_after_diagnostic_failure": 2,
+      "total_llm_calls": 121
+    }
+  },
+  "eaf0d629-ee6e-4c04-baec-aeff9022515b": {
+    "corpus_uuid": "eaf0d629-ee6e-4c04-baec-aeff9022515b",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T11:12:51.507781+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 7,
+    "retry_stats": {
+      "diagnostic_retries": 0,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 100
+    }
+  },
+  "ef5ade39-d75e-4c6f-b649-542158873caa": {
+    "corpus_uuid": "ef5ade39-d75e-4c6f-b649-542158873caa",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T10:12:08.496907+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 3,
+    "retry_stats": {
+      "diagnostic_retries": 2,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 107
+    }
+  },
+  "f0466a01-5a4d-41ef-948d-ab738db2c1a6": {
+    "corpus_uuid": "f0466a01-5a4d-41ef-948d-ab738db2c1a6",
+    "day_type": "high_cmpi",
+    "generation_timestamp_utc": "2026-05-05T00:48:03.470563+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 2,
+    "retry_stats": {
+      "diagnostic_retries": 3,
+      "redraws_after_diagnostic_failure": 0,
+      "total_llm_calls": 111
+    }
+  },
+  "f3131e1b-4aa2-45ba-b222-e326850c9303": {
+    "corpus_uuid": "f3131e1b-4aa2-45ba-b222-e326850c9303",
+    "day_type": "low_cmpi",
+    "generation_timestamp_utc": "2026-05-05T00:40:33.245956+00:00",
+    "llm_config_uuid": "2933cea6-5843-5ddf-bb20-6e237e86055d",
+    "replicate_index": 2,
+    "retry_stats": {
+      "diagnostic_retries": 1,
+      "redraws_after_diagnostic_failure": 2,
+      "total_llm_calls": 117
+    }
+  }
+}
