@@ -10,6 +10,8 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = REPO_ROOT / "data"
 DATA_LARGE_DIR = REPO_ROOT / "data_large"
 FIGURES_DIR = REPO_ROOT / "figures"
+# Noto Sans, shared with the R analysis so all figures use the same font.
+FONTS_DIR = REPO_ROOT.parent / "analysis" / "fonts"
 
 LLM_CONFIGS_PATH = DATA_DIR / "llm_configs.json"
 CORPORA_REGISTRY_PATH = DATA_DIR / "corpora.json"

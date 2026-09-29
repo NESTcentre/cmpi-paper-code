@@ -27,6 +27,8 @@ The two index files in `data/`:
   included corpora instead of generating new ones.
 
 All paths are relative to this directory and set in `cmpi_simulation/config.py`.
+The figures use the Noto Sans font bundled in [`../analysis/fonts/`](../analysis/fonts),
+so they don't depend on the fonts installed on your system.
 
 ## Reproducing the Supplementary's results
 
