@@ -95,4 +95,4 @@ macOS 26.3, with R 4.5.0 and Python 3.11 (via uv).
 If you use this code, please cite the paper and this code archive:
 
 - Paper: Mastitsky, S. E., Rey Lago, D., Shcherbakova, P., Glod, K., Kontzedakis, D., & Blyzniuk, B. V. (2026). A generalisable framework for context-aware measurement of media presence. *Computational Communication Research*. DOI to be added.
-- Code: Zenodo, DOI to be added.
+- Code: Mastitsky, S. E., Rey Lago, D., Shcherbakova, P., Glod, K., Kontzedakis, D., & Blyzniuk, B. V. (2026). *Code for "A generalisable framework for context-aware measurement of media presence"* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23063250
